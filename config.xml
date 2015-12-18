@@ -32,8 +32,15 @@
     <feature name="http://api.phonegap.com/1.0/network" />
     <feature name="http://api.phonegap.com/1.0/geolocation" />
 
-    <allow-navigation href="*" />
-    <access origin="*" />
-    <allow-intent href="*" />
+    <allow-navigation href="*://*.cartocdn.com/*" />
+    <allow-navigation href="*://*.vegangoteborg.se/*" />
+    <allow-navigation href="*://*.vegamap.org/*" />
+    <access origin="http://*.cartocdn.com" />
+    <access origin="http://*.vegangoteborg.se" />
+    <access origin="https://*.vegamap.org" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="geo:*" />
 </widget>
 
