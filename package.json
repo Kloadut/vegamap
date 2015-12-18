@@ -1,0 +1,29 @@
+{
+  "name": "vegangoteborg",
+  "version": "1.0.0",
+  "description": "Map of vegan/vego restaurants in Göteborg",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd node_modules/leaflet && jake build[1vvvvvvv,custom] || echo 'Install jake, uglify-js and jshiint before building'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kloadut/vegangoteborg"
+  },
+  "author": "",
+  "license": "AGPL3",
+  "bugs": {
+    "url": "https://github.com/Kloadut/vegangoteborg/issues"
+  },
+  "homepage": "https://github.com/Kloadut/vegangoteborg",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.1.4",
+    "leaflet": "^0.7.7"
+  },
+  "devDependencies": {
+    "jake": "^8.0.12",
+    "jshint": "^2.9.1-rc1",
+    "uglify-js": "^2.6.1"
+  }
+}

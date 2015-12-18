@@ -1,0 +1,285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.975414156913757,
+          57.70085099900846
+        ]
+      },
+      "properties": {
+        "name": "Amazing thai",
+        "description": "{{http://www.vegangoteborg.se/rest-amazing.jpg}}\n\nAmazing Thai är en vacker och välutsmyckad restaurang nära Heden. Det vegetariska utbudet är inte stort men hit går man för att få den utsökta vegokycklingen – fyra marinerade och knaprigt stekta vegokycklinglår tillsammans med grönsaker. På östasiatiska restauranger kan det förekomma dold fisksås och räkpasta – ha för vana att fråga!\n\n**Adress**: Vasagatan 43B\n**Telefon**: 031-81 48 05\n**Hållplats**: Valand.\n**Karta**: Amazing Thai på Eniro.\n**Hemsida**: amazingthai.nu\n**Öppettider**: Måndag-torsdag 11-15 och 17-22, fredag 11-15 och 17-23, lördag 12-23, söndag 13-22.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,east-asian,vegetarian,vegan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.966857910156248,
+          57.70795329634632
+        ]
+      },
+      "properties": {
+        "name": "Andrum",
+        "description": "{{http://www.vegangoteborg.se/rest-andrum.jpg}}\n\nDen lakto-ovo-vegetariska restaurangen Andrum är centralt belägen nära Brunnsparken. Varje dag finns buffé med veganska alternativ som lasagne och gratänger. På menyn finns också veganburgare, baguetter och bärpajer.\n\n**Adress**: Östra Hamngatan 19\n**Telefon**: 031-13 85 04\n**Hållplats**: Brunnsparken.\n**Hemsida**: –\n**Öppettider**: Måndag-fredag 11-21, lördag-söndag 12-20.\n**Alkoholrättigheter**: Nej.\n---\ntags: restaurant,vegetarian,vegan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.947728,
+          57.6991196
+        ]
+      },
+      "properties": {
+        "name": "Bangkok Kitchen",
+        "description": "{{http://www.vegangoteborg.se/rest-laithai.jpg}}\n\nLai thai har bytt namn, renoverat sin lokal och börjat servera alkohol. Här erbjuds de vanliga curryrätterna i välsmakande tappning men också några wokrätter med het basilika eller cashewnötter. På östasiatiska restauranger kan det förekomma dold fisksås och räkpasta – ha för vana att fråga!\n\n**Adress**: Andra Långgatan 21\n**Telefon**: 031-42 35 53\n**Hållplats**: Masthuggstorget.\n**Hemsida**: http://laithai.se\n**Öppettider**: Måndag-fredag 11-21, lördag-söndag 12-21.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,east-asian,vegetarian,vegan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.930551528930664,
+          57.69781819753603
+        ]
+      },
+      "properties": {
+        "name": "Café Hängmattan",
+        "description": "{{http://www.vegangoteborg.se/rest-hangmattan.jpg}}\n\nLakto-ovo-vegetariska Hängmattan är en del av kulturhuset Musikens Hus. Måndag till fredag serveras vegetarisk lunchbuffé med sallader, falafel, hummus och nybakat bröd. Det finns även kakor och sojamjölk till kaffet. På à la carte finns bland annat toast, burgare och annat gott. Hängmattan erbjuder även catering.\n\n**Adress**: Karl Johansgatan 16\n**Telefon**: 031-42 88 20\n**Hållplats**: Stigbergstorget.\n**Hemsida**: http://musikenshus.se\n**Öppettider**: Måndag-tisdag 11.30-20, onsdag-torsdag 11.30-22, fredag-lördag 11.30-17, söndag 11.30-20. Längre vid särskilda arrangemang. Reducerade öppettider under sommaren.\n**Alkoholrättigheter**: Ja.\n---\ntags: café,vegetarian,vegan,falafel,hamburger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9540145,
+          57.6998878
+        ]
+      },
+      "properties": {
+        "name": "Café Repris",
+        "description": "{{http://www.vegangoteborg.se/rest-caferepris.jpg}}\n\nCafé Repris är ett lakto-ovo-vegetariskt kafé nära Järntorget, med stort veganskt utbud. Kaféet är lokaliserat i foajén till ABF och har den lite omysiga lokalen till trots lyckats skärma av ett krypin med orientaliska kuddar och tyger. Serveringen är relativt enkel och drivs av ungdomar från KFUM. Sallader, rullar och fikabröd står på menyn.\n\n**Adress**: Södra Allégatan 1B\n**Telefon**: 031-313 41 04\n**Hållplats**: Järntorget.\n**Hemsida**: https://www.facebook.com/caferepris\n**Öppettider**: Måndag-lördag 10-17.\n**Alkoholrättigheter**: Nej.\n---\ntags: café,vegetarian,vegan,salad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.95132255554199,
+          57.69937762811874
+        ]
+      },
+      "properties": {
+        "name": "Café Santo Domingo / Dirty Records",
+        "description": "{{http://www.vegangoteborg.se/rest-domingo.jpg}}\n\nInne i skivbutiken Dirty Records huserar lakto-ovo-vegetariska Café Santo Domingo. Varje dag serveras soppa som nästan alltid är vegansk, till exempel med ärter, linser, salami eller chorizo. På menyn finns även surdegsbröd med olika röror och chokladkaka som dessert.\n\n**Adress**: Andra Långgatan 4A\n**Telefon**: 031-18 84 83\n**Hållplats**: Järntorget.\n**Hemsida**: http://cafesantodomingo.se\n**Öppettider**: Tisdag-torsdag 9.30-18.30, fredag 9.30-19.30, lördag 10-16.\n**Alkoholrättigheter**: Nej.\n---\ntags: café,vegetarian,soup"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9515854,
+          57.6918421
+        ]
+      },
+      "properties": {
+        "name": "Canton House",
+        "description": "{{http://www.vegangoteborg.se/rest-canton.jpg}}\n\nCanton House erbjuder vegetarisk kinamat med klass. I en mysig lokal med tunga draperier och tegelväggar, serveras fyra vegetariska rätter som kan ordnas veganska. Menyn erbjuder bland annat chilikryddad tofu med krispig panering. På östasiatiska restauranger kan det förekomma dold fisksås och räkpasta – ha för vana att fråga!\n\n**Adress**: Olivedalsgatan 12\n**Telefon**: 031-14 80 18\n**Hållplats**: Olivedalsgatan.\n**Hemsida**: http://cantonhouse.se\n**Öppettider**: Tisdag-fredag 17-23, lördag 15-23, söndag 15-22.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,east-asian,vegetarian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9191197,
+          57.69439
+        ]
+      },
+      "properties": {
+        "name": "Crippas Café",
+        "description": "{{http://www.vegangoteborg.se/rest-crippas.jpg}}\n\nCrippas drivs av den gamle Attentatpunkaren Crippa och hans döttrar. Här råder skön atmosfär och det finns plats för både luncher, fika, mingel, quiz och spelningar den lilla lokalen till trots. På Crippas Café råder principen \"allt är vegansk men det går att få lakto-ovo-vegetariskt\". Mackor, soppor, burgare, fika, kaffe, öl och annat gott utgör menyn.\n\n**Adress**: Kusttorget 1,\n**Telefon**: 0703-13 16 30\n**Hållplats**: Chapmans torg.\n**Hemsida**: https://www.facebook.com/crippascafe\n**Öppettider**: -\n**Alkoholrättigheter**: Ja.\n---\ntags: café,vegan,vegetarian,soup,hamburger,beer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9556724,
+          57.6943941
+        ]
+      },
+      "properties": {
+        "name": "Dubbel Dubbel",
+        "description": "{{http://www.vegangoteborg.se/rest-dubbel.jpg}}\n\nDubbel Dubbel är en trendig och mysig dim sum-bar som erbjuder en vegomeny med dumplings, tempeh, krispiga sallader, syrliga pickles och en rad med dipsåser. Man får fixa och knixa för att få det veganskt men servicen är god. Finns på två platser i stan.\n\n**Adress**: Kastellgatan 14\n**Telefon**: 031-130 400\n**Hållplats**: Prinsgatan eller Brunnsgatan.\n**Hemsida**: http://dubbeldubbel.se\n**Öppettider**: Tisdag-torsdag 17-sent, fredag-lördag 17-00.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,east-asian,vegetarian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9560557,
+          57.702963
+        ]
+      },
+      "properties": {
+        "name": "Dubbel Dubbel Kolibri",
+        "description": "{{http://www.vegangoteborg.se/rest-dubbel.jpg}}\n\nDubbel Dubbel är en trendig och mysig dim sum-bar som erbjuder en vegomeny med dumplings, tempeh, krispiga sallader, syrliga pickles och en rad med dipsåser. Man får fixa och knixa för att få det veganskt men servicen är god. Finns på två platser i stan.\n\n**Adress**: Surbrunnsgatan 8 (Esperantoplatsen)\n**Telefon**: 031-130 404\n**Hållplats**: Järntorget.\n**Hemsida**: http://dubbeldubbel.se\n**Öppettider**: Söndag-torsdag 17-sent, fredag-lördag 17-01.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,east-asian,vegetarian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.956300735473633,
+          57.69850618989236
+        ]
+      },
+      "properties": {
+        "name": "En Deli Haga",
+        "description": "{{http://www.vegangoteborg.se/rest-endeli.jpg}}\n\nLakto-ovo-vegetariska En Deli Haga är en trevlig oas i mysiga Haga, som varje dag erbjuder en frisk medelhavsbuffé på tallrik eller i rulle samt veganska soppor och pajer. Efter renoveringen är det numera trevligt att stanna längre än bara på en snabblunch.\n\n**Adress**: Haga Nygata 15\n**Telefon**: 031-711 57 95\n**Hållplats**: Järntorget.\n**Hemsida**: http://endelihaga.se\n**Öppettider**: Måndag-fredag 10-19, lördag 10-17.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,vegetarian,vegan,mediterranean"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9539655,
+          57.7019445
+        ]
+      },
+      "properties": {
+        "name": "Frilagret",
+        "description": "{{http://www.vegangoteborg.se/rest-frilagret.jpg}}\n\nFrilagret, i gamla Lagerhuset, är ett kulturhus för ungdomar. I entrén finns ett trevligt och rymligt lakto-ovo-vegetariskt kafé som så klart välkomnar både unga och vuxna. Stor del av menyn är vegansk, till exempel sopplunch, grillade smörgåsar och fika samt frukost med soygurt, smörgås och annat gott.\n\n**Adress**: Heurlins plats 1\n**Telefon**: 031-368 32 50\n**Hållplats**: Järntorget\n**Hemsida**: http://frilagret.se\n**Öppettider**: Tisdag-fredag 9-19, lördag 12-19.\n**Alkoholrättigheter**: Nej.\n---\ntags: café,vegetarian,vegan,sandwich,soup"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9184768,
+          57.6937598
+        ]
+      },
+      "properties": {
+        "name": "Govindas",
+        "description": "{{http://www.vegangoteborg.se/rest-govindas.jpg}}\n\nGovindas är Hare Krishnas lakto-ovo-vegetariska restaurangkedja, som i Göteborg hittas i Majorna. Maten serveras på en stålbricka och läggs upp av personalen bakom disk. I lunchen ingår ett antal smårätter: En curry, en soppa, chutney, sallad, bröd med mera. Veganmeny finns och det är fri påfyllning.\n\n**Adress**: Karl Johansgatan 57\n**Telefon**: 031-42 16 42\n**Hållplats**: Chapmans torg.\n**Hemsida**: http://govindas-goteborg.se\n**Öppettider**: Måndag-fredag 11.30-15.\n**Alkoholrättigheter**: Nej.\n---\ntags: restaurant,vegetarian,vegan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.990970969200134,
+          57.69699043941419
+        ]
+      },
+      "properties": {
+        "name": "Green Room",
+        "description": "{{http://www.vegangoteborg.se/rest-greenroom.jpg}}\n\nAtt Liseberg skulle starta en näst intill vegansk restaurang inne på sitt område är minst sagt oväntat. Varje dag serveras en buffé som innefattar det mesta man kan tänka sig: Tzay, nuggets, majsplättar, woker, ugnsrotsaker, pasta, cous cous, quinoa, picklade grönsaker, såser, dressingar...och tallriken går att fylla om och om igen.\n\n**Adress**: Örgrytevägen 5\n**Telefon**: 031-40 01 00\n**Hållplats**: Liseberg.\n**Hemsida**: http://liseberg.se\n**Öppettider**: Varierar med säsong. Stängt vinterhalvåret förutom kring jul.\n**Alkoholrättigheter**: Ja.\n---\ntags: retaurant, vegetarian,vegan,pasta,mediterranean"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9506,
+          57.6966
+        ]
+      },
+      "properties": {
+        "name": "Hagabions Café",
+        "description": "{{http://www.vegangoteborg.se/rest-hagabion.jpg}}\n\nLakto-ovo-vegetariska Hagabion med källarvåningen Kino är trendigt smålyxigt och ett givet uteserveringshäng. Maten är genomtänkt men menyn ändras då och då och veganutbudet får ibland en lite undanskymd plats. Förvänta dig sorl och uppsluppen stämning.\n\n**Adress**: Linnégatan 21\n**Telefon**:  031-42 88 10\n**Hållplats**: Prinsgatan.\n**Hemsida**: http://hagabionscafe.se\n**Öppettider**: Måndag-söndag från 17.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,vegetarian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.98925,
+          57.69382
+        ]
+      },
+      "properties": {
+        "name": "Sattva",
+        "description": "{{http://www.vegangoteborg.se/rest-sattva.jpg}}\n\nLakto-ovo-vegetariska Sattva är en indisk lunchrestaurang med hinduisk inriktning. Varje dag serveras dagens lunchrätter, till exempel kikärtsbiffar, thaiburgare, dumplings och olika soppor. Sattvas kusinrestaurang finns i Nimaihuset på Underåsgatan 24 i Gårda.\n\n**Adress**: Södra vägen 73.\n**Hållplats**: Korsvägen.\n**Hemsida**: http://sattvagbg.wordpress.com\n**Öppettider**: Måndag-fredag 11-15.30.\n**Alkoholrättigheter**: Nej.\n---\ntags: restaurant,vegetarian,hamburger,soup"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9567362,
+          57.6990349
+        ]
+      },
+      "properties": {
+        "name": "Solrosen",
+        "description": "{{http://www.vegangoteborg.se/rest-solrosen.jpg}}\n\nSolrosen är en lakto-ovo-vegetarisk restaurang med hög bohemfaktor. Veganskt finns alltid på menyn med någon form av bön- och grönsaksgryta och man väljer själv mellan råris, pasta och ugnstekt kulpotatis. Salladsbuffén är populär och det är fri påyllning. Det finns också veganska pajer med vaniljsås till efterrrätt.\n\n**Adress**: Kaponjärgatan 4A\n**Telefon**: 031-711 66 97\n**Hållplats**: Hagakyrkan.\n**Hemsida**: http://restaurangsolrosen.se\n**Öppettider**: Måndag-torsdag 11.30-22.30, fredag 11.30-23.30, lördag 13-23.30, söndag 14-19.30. Reducerade öppettider under sommaren.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,vegetarian,vegan,soup"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9184626,
+          57.685078
+        ]
+      },
+      "properties": {
+        "name": "Syster Marmelad",
+        "description": "{{http://www.vegangoteborg.se/rest-syster.jpg}}\n\nLakto-ovo-vegetariska Syster Marmelad är en finrestaurang med finess på ett avslappnat sätt. Här beställer man tre-fyra veganska mellanrätter och betraktar kocken som monterar de lilla kuberna med selleri, pluttarna av majonnäs eller vad som står på menyn för kvällen. Snygg lokal och skön uteservering.\n\n**Adress**: Mariagatan 16\n**Telefon**:  031-14 11 60\n**Hållplats**: Mariaplan eller Sannaplan.\n**Hemsida**: http://systermarmelad.se\n**Öppettider**: Tisdag-söndag 11-sent.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,vegetarian,vegan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9466469,
+          57.6987808
+        ]
+      },
+      "properties": {
+        "name": "Thali",
+        "description": "{{http://www.vegangoteborg.se/rest-thali.jpg}}\n\nThali är en trevlig indisk och lakto-ovo-vegetarisk restaurang som erbjuder spännande à la carte från både norra och södra Indien. Veganvänligheten är stor och naanbrödet är veganskt. Barn är i synnerhet välkomna att rita med färgpennor på dukarna.\n\n**Adress**: Värmlandsgatan 18B\n**Telefon**: 031-14 03 10\n**Hållplats**: Masthuggstorget.\n**Hemsida**: http://restaurangthali.se\n**Öppettider**: Måndag-onsdag 17-21, torsdag 17-21.30, fredag 16-22, lördag 13-22, söndag 13-21. Tiderna avses kökets öppettider.\n**Alkoholrättigheter**: Ja. \n---\ntags: restaurant,indian,vegetarian,vegan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9337719,
+          57.6988
+        ]
+      },
+      "properties": {
+        "name": "Vegetariska köket",
+        "description": "{{http://www.vegangoteborg.se/rest-sunset01.jpg}}\n\nFalafelkiosken på Stigbergstorget har haft en rad olika skyltar med olika namn och beskrivningar. Sunset Falafel tycks nu bytts mot Vegetariska köket. På skylten står det \"100 procent vegan\" vilket inte stämmer. Det som erbjuds veganer är främst falafelrulle med sesamsås och eventuellt någon burgare.\n\n**Adress**: Stigbergstorget.\n**Hållplats**: Stigbergstorget.\n**Hemsida**: –\n**Öppettider**: –\n**Alkoholrättigheter**: Nej.\n---\ntags: vegetarian,vegan,hamburger,falafel"
+      }
+    }
+  ]
+}
