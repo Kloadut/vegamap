@@ -28,6 +28,7 @@
     </platform>
 
     <icon src="images/icons/logo.png" />
+    <splash src="images/splash.jpg" />
 
     <feature name="http://api.phonegap.com/1.0/network" />
     <feature name="http://api.phonegap.com/1.0/geolocation" />
