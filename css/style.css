@@ -14,9 +14,21 @@ hr {
     position: absolute;
     top: 10px;
     left: 10px;
-    padding: 10px 14px;
-    background: rgba(47, 47, 47, 0.8);
     border-radius: 10px;
+    background: url('../images/icons/logo.png') no-repeat;
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.5);
+    background-size: contain;
+}
+
+#logo:hover {
+    background-image: url('../images/icons/logo-help.png');
+    cursor: pointer;
+}
+
+#logo img {
 }
 
 #tagbar {
@@ -24,17 +36,64 @@ hr {
     bottom: 10px;
     left: 10px;
     padding: 10px;
+    max-width: 500px;
+}
+
+#tagbar .legend {
+    font-weight: bold;
+    font-size: 0.9em;
 }
 
 #tagbar button {
+    padding: 4px 6px;
+    margin: 1px;
+    background: #7cb342;
+    color: #FFF;
     display: inline-block;
-    padding: 5px;
-    background: rgba(47, 47, 47, 0.8);
-    color: white;
+    font-size: 0.9em;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    border: solid 1px #497817;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2);
+    -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
 }
 
+#tagbar button:focus { outline: 0; }
+
 #tagbar button.focused {
-    color: red;
+    background: #558b2f;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.4);
+    -webkit-box-shadow: inset 0 1px 0 rgba(0, 0, 0, 0.2), 0 1px 1px rgba(255, 255, 255, 0.4);
+    -moz-box-shadow: inset 0 1px 0 rgba(0, 0, 0, 0.2), 0 1px 1px rgba(255, 255, 255, 0.4);
+    box-shadow: inset 0 1px 0 rgba(0, 0, 0, 0.2), 0 1px 1px rgba(255, 255, 255, 0.4);
+}
+
+a.go {
+  color: #fff;
+  background-color: #6496c8;
+  text-shadow: -1px 1px #417cb8;
+  border: none;
+  display: inline-block;
+  font-size: 1.3em;
+  padding: 7px 12px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  border-radius: 2px;
+}
+
+a.go:hover {
+  background-color: #346392;
+  text-shadow: -1px 1px #27496d;
+  text-decoration: none;
+}
+
+a.go:active {
+  background-color: #27496d;
+  text-shadow: -1px 1px #193047;
+  text-decoration: none;
 }
 
 .leaflet-container .leaflet-control-attribution {
@@ -60,9 +119,68 @@ hr {
 
 .leaflet-popup-content h1 {
     font-size: 20px;
-    margin-top: 0;
+    margin-top: 15px;
+    font-weight: bold;
 }
 
 .leaflet-popup-content img {
     width: 95%;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+@media (max-width: 400px) {
+    .leaflet-popup-content img {
+        margin-left: 2%;
+    }
+}
+
+#layout {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow-y: auto;
+    padding: 5px 30px;
+    background: #dcedc8;
+    background: -webkit-linear-gradient(#dcedc8, #aed482); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#dcedc8, #aed482); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#dcedc8, #aed482); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#dcedc8, #aed482); /* Standard syntax */
+}
+
+#layout .title {
+    padding-left: 80px;
+}
+
+#layout .title h1 {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+#layout .title small {
+    color: #888;
+    font-size: 1em;
+}
+
+#layout h3 {
+    font-weight: bold;
+    margin-top: 2.3em;
+    font-size: 1.5em;
+}
+
+#layout p.luv {
+    font-size: 1.2em;
+    margin-top: 2.5em;
+    font-style: italic;
+    color: #888;
+}
+
+#layout strong.very {
+    font-size: 1.5em;
+}
+
+#layout a {
+    text-shadow: -1px 1px rgba(255, 255, 255, 0.4);
 }

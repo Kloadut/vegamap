@@ -7,17 +7,18 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Vegan Göteborg</name>
+    <name>Vegamap Göteborg</name>
 
     <description>
-      Map of vegan/vego restaurants in Göteborg
+      A map of vegetarian and vegan-friendly restaurants/cafés/bars
     </description>
 
-    <author href="https://kload.fr" email="kload+apps@kload.fr">
+    <author href="https://kload.fr" email="kload+vegamap@kload.fr">
       kload
     </author>
 
     <access origin="http://cartocdn.com" subdomains="true" />
     <access origin="http://vegangoteborg.se" subdomains="true" />
+    <access origin="http://vegamap.org" subdomains="true" />
 </widget>
 

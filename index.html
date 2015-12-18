@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <title>Veggie Göteborg Map</title>
+    <title>Göteborg Vegamap</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/leaflet.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
@@ -12,9 +12,33 @@
   <body>
     <div id="map"></div>
 
-    <div id="logo"><img src="images/logo.png"><img src="images/logo_text.png"></div>
+    <div id="tagbar"><div class="legend">Select tags:</div></div>
 
-    <div id="tagbar"></div>
+    <div id="layout">
+        <div class="title">
+          <h1>Göteborg Vegamap</h1>
+          <small>A map of vegetarian and vegan-friendly restaurants/cafés/bars</small>
+        </div>
+
+        <h3>Help</h3>
+        <ul>
+          <li>Click and drag the map to navigate around Göteborg</li>
+          <li>Use the mouse scroll wheel or pinch the screen to zoom in/out</li>
+          <li>Click on a location's icon to get more information</li>
+          <li>Select tags on the bottom of the screen to filter locations</li>
+        </ul>
+        
+        <h3>Credits</h3>
+        <p>All the photos and location gathering credits goes to:<br><strong class="very"><a href="http://vegangoteborg.se" target=_blank>vegangoteborg.se</a></strong>. <strong>Many thanks to them!</strong></p>
+
+        <h3>About</h3>
+        <p>This app uses <strong><a href="https://github.com/Kloadut/vegangoteborg" target=_blank>Vegamap</a></strong>, a free software licensed under <strong>APGL-3.0</strong>. Icons from <strong><a href"https://icons8.com/" target=_blank>icons8.com</a></strong>.</p>
+        <p>The data are available for reading and modifications on <a href="https://umap.openstreetmap.fr/fr/map/vegan-goteborg_64068" target=_blank>uMap</a>.</p>
+        <p>For any question, drop me an email at <a href="mailto:kload+vegamap@kload.fr">kload+vegamap@kload.fr</a></p>
+        <p class="luv"><3</p>
+    </div>
+
+    <div id="logo"></div>
 
     <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>

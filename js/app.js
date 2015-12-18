@@ -15,9 +15,6 @@ var zooming = false;
 var lastSecondEvent = false;
 
 fadeOut = function () {
-    $('#logo').fadeOut(function() {
-        $(this).remove();
-    });
     $('#tagbar').fadeOut();
 }
 
@@ -67,11 +64,11 @@ map.on('popupclose', function() {
     fadeIn();
 }); 
 
-setTimeout(function () {
-    $('#logo').fadeOut(function() {
-        $(this).remove();
-    });
-}, 3000);
+//setTimeout(function () {
+//    $('#logo').fadeOut(function() {
+//        $(this).remove();
+//    });
+//}, 3000);
 
 // Display and track the location as a blue circle on the map
 map.locate({setView: false, maxZoom: 128, enableHighAccuracy: false, watch: true});
@@ -88,8 +85,7 @@ map.on('locationfound', function(e) {
 
 // Create different icons
 var greenIcon = L.icon({
-    iconUrl: 'images/vegan-green.png',
-    shadowUrl: 'images/vegan-shadow.png',
+    iconUrl: 'images/icons/vegan-food.png',
 
     iconSize:     [50, 50], // size of the icon
     shadowSize:   [50, 50], // size of the shadow
@@ -101,6 +97,15 @@ var greenIcon = L.icon({
 var greyIcon = L.icon({
     iconUrl: 'images/vegan-fade.png',
 
+    iconSize:     [25, 25], // size of the icon
+    iconAnchor:   [12, 24], // point of the icon which will correspond to marker's location
+    shadowAnchor: [12, 24],  // the same for the shadow
+    popupAnchor:  [0, -18] // point from which the popup should open relative to the iconAnchor
+});
+
+var restaurantIcon = L.icon({
+    iconUrl: 'images/icons/restaurant.png',
+
     iconSize:     [50, 50], // size of the icon
     shadowSize:   [50, 50], // size of the shadow
     iconAnchor:   [24, 47], // point of the icon which will correspond to marker's location
@@ -108,6 +113,75 @@ var greyIcon = L.icon({
     popupAnchor:  [0, -36] // point from which the popup should open relative to the iconAnchor
 });
 
+var cafeIcon = L.icon({
+    iconUrl: 'images/icons/cafe.png',
+
+    iconSize:     [50, 50], // size of the icon
+    shadowSize:   [50, 50], // size of the shadow
+    iconAnchor:   [24, 47], // point of the icon which will correspond to marker's location
+    shadowAnchor: [24, 47],  // the same for the shadow
+    popupAnchor:  [0, -36] // point from which the popup should open relative to the iconAnchor
+});
+
+var noodleIcon = L.icon({
+    iconUrl: 'images/icons/noodles.png',
+
+    iconSize:     [50, 50], // size of the icon
+    shadowSize:   [50, 50], // size of the shadow
+    iconAnchor:   [24, 47], // point of the icon which will correspond to marker's location
+    shadowAnchor: [24, 47],  // the same for the shadow
+    popupAnchor:  [0, -36] // point from which the popup should open relative to the iconAnchor
+});
+
+var pastaIcon = L.icon({
+    iconUrl: 'images/icons/pasta.png',
+
+    iconSize:     [50, 50], // size of the icon
+    shadowSize:   [50, 50], // size of the shadow
+    iconAnchor:   [24, 47], // point of the icon which will correspond to marker's location
+    shadowAnchor: [24, 47],  // the same for the shadow
+    popupAnchor:  [0, -36] // point from which the popup should open relative to the iconAnchor
+});
+
+var friesIcon = L.icon({
+    iconUrl: 'images/icons/fries.png',
+
+    iconSize:     [50, 50], // size of the icon
+    shadowSize:   [50, 50], // size of the shadow
+    iconAnchor:   [24, 47], // point of the icon which will correspond to marker's location
+    shadowAnchor: [24, 47],  // the same for the shadow
+    popupAnchor:  [0, -36] // point from which the popup should open relative to the iconAnchor
+});
+
+var pizzaIcon = L.icon({
+    iconUrl: 'images/icons/pizza.png',
+
+    iconSize:     [50, 50], // size of the icon
+    shadowSize:   [50, 50], // size of the shadow
+    iconAnchor:   [24, 47], // point of the icon which will correspond to marker's location
+    shadowAnchor: [24, 47],  // the same for the shadow
+    popupAnchor:  [0, -36] // point from which the popup should open relative to the iconAnchor
+});
+
+var beerIcon = L.icon({
+    iconUrl: 'images/icons/beer.png',
+
+    iconSize:     [50, 50], // size of the icon
+    shadowSize:   [50, 50], // size of the shadow
+    iconAnchor:   [24, 47], // point of the icon which will correspond to marker's location
+    shadowAnchor: [24, 47],  // the same for the shadow
+    popupAnchor:  [0, -36] // point from which the popup should open relative to the iconAnchor
+});
+
+var favoriteIcon = L.icon({
+    iconUrl: 'images/icons/vegan.png',
+
+    iconSize:     [50, 50], // size of the icon
+    shadowSize:   [50, 50], // size of the shadow
+    iconAnchor:   [24, 47], // point of the icon which will correspond to marker's location
+    shadowAnchor: [24, 47],  // the same for the shadow
+    popupAnchor:  [0, -36] // point from which the popup should open relative to the iconAnchor
+});
 
 // Filtering tags
 unique = function(elem, pos, arr) {
@@ -139,33 +213,32 @@ function getTags(feature) {
 }
 
 // Parse uMap GeoJSON descriptions to HTML
-function parseToHTML(text) {
-    text = text.replace(/{{(.+)}}/g, "<img src='$1'>");
+function parseToHTML(title, text) {
+    text = text.replace(/tags:(.*)/g, '');
+    text = text.replace(/{{(.+)}}\n\n/g, "<img src='$1'><h1>"+ title +"</h1>");
     text = text.replace(/# (.+)\n/g, "<h1>$1</h1>");
+    address = text.match(/dress\*\*: (.+)\n/g)[0].replace(/dress\*\*: (.+)\n/g, "$1");
     text = text.replace(/\*\*(.+)\*\*/g, "<strong>$1</strong>");
-    text = text.replace(/: (http:\/\/.+)\n/g, ": <a href='$1'>$1</a><br />");
+    text = text.replace(/: (http:\/\/.+)\n/g, ": <a href='$1' target=_blank>$1</a><br />");
     text = text.replace(/elefon<\/strong>: (.+)\n/g, "elefon</strong>: <a href='tel:$1'>$1</a><br />");
     text = text.replace(/\n/g, "<br />");
-    text = text.replace(/---/g, "<hr />");
+    //text = text.replace(/---/g, "<hr />");
+    text = text.replace(/---/g, "");
+    text = text + '<a class="go" href="https://www.google.se/maps/dir//'+ address.replace(/ /g, '+') +',Göteborg/@57.7023257,11.9619544,13z/" target=_blank>Go!</a>'
 
     return text;
 }
 
 // Add the popup to each point
 function onEachFeature(feature, layer) {
-    textToParse = "";
-    if (feature.properties && feature.properties.name) {
-        textToParse = textToParse +"# "+ feature.properties.name + '\n';
+    if (feature.properties && !feature.properties.hidden && feature.properties.description && feature.properties.name) {
+        layer.bindPopup(parseToHTML(feature.properties.name, feature.properties.description), { closeButton: false });
     }
-    if (feature.properties && feature.properties.description) {
-        textToParse = textToParse + feature.properties.description;
-    }
-
-    layer.bindPopup(parseToHTML(textToParse));
 }
 
 function pointToLayer(feature, latlng) {
     var icon = greyIcon;
+    feature.properties.hidden = true;
     featureTags = getTags(feature);
 
     // Filter if any tag is selected
@@ -189,12 +262,34 @@ function pointToLayer(feature, latlng) {
 
     // If an element matches, add its tags to the available tags
     if (icon === greenIcon) {
+        feature.properties.hidden = false;
         $.each(featureTags, function(index, tagToAdd) {
             if (currentTags.indexOf(tagToAdd) === -1) {
                 availableTags.push(tagToAdd);
             }
         });
         availableTags = availableTags.filter(unique);
+
+        if (featureTags.indexOf('favorite') !== -1) {
+            icon = favoriteIcon;
+        } else if (featureTags.indexOf('east-asian') !== -1) {
+            icon = noodleIcon;
+        } else if (featureTags.indexOf('pizza') !== -1) {
+            icon = pizzaIcon;
+        } else if (featureTags.indexOf('junk-food') !== -1) {
+            icon = friesIcon;
+        } else if (featureTags.indexOf('pasta') !== -1) {
+            icon = pastaIcon;
+        } else if (featureTags.indexOf('café') !== -1) {
+            icon = cafeIcon;
+        } else if (featureTags.indexOf('beer') !== -1 || featureTags.indexOf('pub') !== -1) {
+            icon = beerIcon;
+        } else if (featureTags.indexOf('restaurant') !== -1) {
+            icon = restaurantIcon;
+        } else if (featureTags.indexOf('vegan') !== -1) {
+            icon = greenIcon;
+        }
+
     }
 
     return L.marker(latlng, {icon: icon});
@@ -244,5 +339,9 @@ $.getJSON('data.geojson', function(data) {
         }
         currentTags = currentTags.filter(unique);
         reloadTags(data);
+    });
+
+    $('body').on('click', '#logo', function() {
+        $('#layout').fadeToggle();
     });
 });
