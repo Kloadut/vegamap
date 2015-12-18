@@ -17,7 +17,7 @@
       kload
     </author>
 
-    <plugin name="cordova-plugin-whitelist" />
+    <plugin name="cordova-plugin-whitelist" spec="1.2.0" />
 
     <platform name="ios" >
       <preference name="orientation" value="portrait" />
@@ -32,15 +32,8 @@
     <feature name="http://api.phonegap.com/1.0/network" />
     <feature name="http://api.phonegap.com/1.0/geolocation" />
 
-    <allow-navigation href="*://*.cartocdn.com/*" />
-    <allow-navigation href="*://*.vegangoteborg.se/*" />
-    <allow-navigation href="*://*.vegamap.org/*" />
-    <access origin="http://*.cartocdn.com" />
-    <access origin="http://*.vegangoteborg.se" />
-    <access origin="https://*.vegamap.org" />
-    <allow-intent href="http://*/*" />
-    <allow-intent href="https://*/*" />
-    <allow-intent href="tel:*" />
-    <allow-intent href="geo:*" />
+    <allow-navigation href="*" />
+    <access origin="*" />
+    <allow-intent href="*" />
 </widget>
 
