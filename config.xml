@@ -35,5 +35,12 @@
     <allow-navigation href="*://*.cartocdn.com/*" />
     <allow-navigation href="*://*.vegangoteborg.se/*" />
     <allow-navigation href="*://*.vegamap.org/*" />
+    <access origin="http://*.cartocdn.com" />
+    <access origin="http://*.vegangoteborg.se" />
+    <access origin="https://*.vegamap.org" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="geo:*" />
 </widget>
 
