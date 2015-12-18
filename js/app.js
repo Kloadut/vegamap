@@ -324,7 +324,7 @@ function reloadTags(data) {
     });
 }
 
-$.getJSON('data.geojson', function(data) {
+computeData = function(data) {
     reloadTags(data);
 
     $.each(availableTags, function(index, tag) {
@@ -344,4 +344,9 @@ $.getJSON('data.geojson', function(data) {
     $('body').on('click', '#logo', function() {
         $('#layout').fadeToggle();
     });
-});
+}
+
+$.getJSON('https://goteborg.vegamap.org/data.geojson', computeData)
+  .fail(function() {
+    $.getJSON('data.geojson', computeData);
+  });

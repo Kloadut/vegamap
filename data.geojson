@@ -6,13 +6,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.975414156913757,
-          57.70085099900846
+          11.975440979003906,
+          57.70084526616394
         ]
       },
       "properties": {
         "name": "Amazing thai",
-        "description": "{{http://www.vegangoteborg.se/rest-amazing.jpg}}\n\nAmazing Thai är en vacker och välutsmyckad restaurang nära Heden. Det vegetariska utbudet är inte stort men hit går man för att få den utsökta vegokycklingen – fyra marinerade och knaprigt stekta vegokycklinglår tillsammans med grönsaker. På östasiatiska restauranger kan det förekomma dold fisksås och räkpasta – ha för vana att fråga!\n\n**Adress**: Vasagatan 43B\n**Telefon**: 031-81 48 05\n**Hållplats**: Valand.\n**Karta**: Amazing Thai på Eniro.\n**Hemsida**: amazingthai.nu\n**Öppettider**: Måndag-torsdag 11-15 och 17-22, fredag 11-15 och 17-23, lördag 12-23, söndag 13-22.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,east-asian,vegetarian,vegan"
+        "description": "{{http://www.vegangoteborg.se/rest-amazing.jpg}}\n\nAmazing Thai är en vacker och välutsmyckad restaurang nära Heden. Det vegetariska utbudet är inte stort men hit går man för att få den utsökta vegokycklingen – fyra marinerade och knaprigt stekta vegokycklinglår tillsammans med grönsaker. På östasiatiska restauranger kan det förekomma dold fisksås och räkpasta – ha för vana att fråga!\n\n**Adress**: Vasagatan 43B\n**Telefon**: 031-81 48 05\n**Hållplats**: Valand.\n**Hemsida**: http://amazingthai.nu\n**Öppettider**: Måndag-torsdag 11-15 och 17-22, fredag 11-15 och 17-23, lördag 12-23, söndag 13-22.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,east-asian,vegetarian,vegan"
       }
     },
     {
@@ -188,13 +188,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.990970969200134,
-          57.69699043941419
+          11.990976333618164,
+          57.696992589459796
         ]
       },
       "properties": {
         "name": "Green Room",
-        "description": "{{http://www.vegangoteborg.se/rest-greenroom.jpg}}\n\nAtt Liseberg skulle starta en näst intill vegansk restaurang inne på sitt område är minst sagt oväntat. Varje dag serveras en buffé som innefattar det mesta man kan tänka sig: Tzay, nuggets, majsplättar, woker, ugnsrotsaker, pasta, cous cous, quinoa, picklade grönsaker, såser, dressingar...och tallriken går att fylla om och om igen.\n\n**Adress**: Örgrytevägen 5\n**Telefon**: 031-40 01 00\n**Hållplats**: Liseberg.\n**Hemsida**: http://liseberg.se\n**Öppettider**: Varierar med säsong. Stängt vinterhalvåret förutom kring jul.\n**Alkoholrättigheter**: Ja.\n---\ntags: retaurant, vegetarian,vegan,pasta,mediterranean"
+        "description": "{{http://www.vegangoteborg.se/rest-greenroom.jpg}}\n\nAtt Liseberg skulle starta en näst intill vegansk restaurang inne på sitt område är minst sagt oväntat. Varje dag serveras en buffé som innefattar det mesta man kan tänka sig: Tzay, nuggets, majsplättar, woker, ugnsrotsaker, pasta, cous cous, quinoa, picklade grönsaker, såser, dressingar...och tallriken går att fylla om och om igen.\n\n**Adress**: Örgrytevägen 5\n**Telefon**: 031-40 01 00\n**Hållplats**: Liseberg.\n**Hemsida**: http://liseberg.se\n**Öppettider**: Varierar med säsong. Stängt vinterhalvåret förutom kring jul.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant, vegetarian,vegan,pasta,mediterranean"
       }
     },
     {
@@ -216,8 +216,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.98925,
-          57.69382
+          11.989259719848631,
+          57.693827584180944
         ]
       },
       "properties": {
