@@ -216,6 +216,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.9543807,
+          57.6995316
+        ]
+      },
+      "properties": {
+        "name": "Hälsobaren",
+        "description": "{{http://www.vegangoteborg.se/rest-halsobaren.jpg}}\n\nHälsobaren är ett klassiskt snabbsushiställe i Haga med något högre ambition än många andra slentrianhak. Här samsas makirullar med friska smoothies och färskpressad juice. På sushifronten erbjuds tre olika vegotallrikar: Vegokado, Vegotofu och den färgglada Vegobågen. Byt ut äggen! Misosoppan är vegansk.\n\n**Adress**: Mellangatan 1A\n**Telefon**: 031-701 70 00\n**Hållplats**: Järntorget.\n**Hemsida**: –\n**Öppettider**: Måndag-fredag 11-20, lördag-söndag 12-18.\n**Alkoholrättigheter**: Nej.\n---\ntags: restaurant,east-asian,vegetarian,vegan,sushi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.971455216407776,
+          57.705703526411625
+        ]
+      },
+      "properties": {
+        "name": "Hälsosushi",
+        "description": "{{http://www.vegangoteborg.se/rest-halsosushi.jpg}}\n\nI hörnet vid Östra Larmgatan/Kyrkogatan ligger Hälsosushi. Enligt egen utsago serveras sushi av högsta kvalitet och med bästa råvaror. Som lekman är sushin ungefär sig lik på de allra flesta ställen. På Hälsosushi kan man välja mellan två olika tallrikar: Vegi Avocado och Vegi Tofu. Den senare innehåller ägg så be att få byta ut.\n\n**Adress**: Östra Larmgatan 9\n**Telefon**: 031-13 85 77\n**Hållplats**: Brunnsparken.\n**Hemsida**: http://halsosushi.se\n**Öppettider**: Måndag-fredag 11-20, lördag-söndag 12-18.\n**Alkoholrättigheter**: Nej.\n---\ntags: sushi,restaurant,east-asian,vegetarian,vegan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.9528666,
           57.6937118
         ]
@@ -237,6 +265,20 @@
       "properties": {
         "name": "Hello Monkey (Magasinsgatan)",
         "description": "{{http://www.vegangoteborg.se/rest-monkey.jpg}}\n\nHello Monkey är en trendig innerstadskrog som finns på två platser. Menyn är lyxigt östasiatisk och det går utmärkt att knåpa ihop en trerättersmiddag. Flertalet spännande förrätter finns på menyn men till huvudrätt erbjuds i huvudsak en hyfsad bipimbap som inte överraskar. Kokossorbet till efterrätt.\n\n**Adress**: Magasinsgatan 26\n**Telefon**: 031-13 04 42\n**Hållplats**: Grönsakstorget\n**Hemsida**: http://hellomonkey.net\n**Öppettider**: Söndag-fredag från 17, lördag från 13.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,east-asian,vegetarian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.956670880317688,
+          57.70018168328035
+        ]
+      },
+      "properties": {
+        "name": "Kyoto Sushi Bar",
+        "description": "{{http://www.vegangoteborg.se/rest-kyoto.jpg}}\n\nKyoto ligger på \"fel\" sida av Allégatan och kan lätt glömmas bort. Men gör inte det! Kyoto är ett rätt trevligt litet krypin med större restaurangkänsla än vanliga sushihak och man har koll på veganskt så man slipper jiddra om äggfrågor. Ett plus i kanten är att man kan få tångkaviar till och ryktet säger seitankött.\n\n**Adress**: Norra Allégatan 8\n**Telefon**: 031-711 18 77\n**Hållplats**: Järntorget.\n**Hemsida**: –\n**Öppettider**: – \n**Alkoholrättigheter**: Nej.\n---\ntags: restaurant,east-asian,sushi,vegetarian,vegan"
       }
     },
     {
@@ -384,6 +426,76 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.972532123327255,
+          57.708741399251196
+        ]
+      },
+      "properties": {
+        "name": "Sun Sushi",
+        "description": "{{http://www.vegangoteborg.se/rest-sunsushi.jpg}}\n\nI Centralhuset, intill Centralstationen, finns ett hyggligt sushiställe för den som behöver krubb mellan avgångarna. Förvisso spartanskt och omysigt på grund av läget i det sorliga Centralhuset men ändå vällagade sushibitar med tofuhattar, avocado och grönt. Veganskt står på menyn!\n\n**Adress**: Centralhuset\n**Telefon**: 031-15 91 80\n**Hållplats**: Centralstationen/Drottningtorget\n**Hemsida**: –\n**Öppettider**: –\n**Alkoholrättigheter**: Nej.\n---\ntags: restaurant,sushi,east-asian,vegetarian,vegan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.971119,
+          57.706179
+        ]
+      },
+      "properties": {
+        "name": "Sushi Delux",
+        "description": "{{http://www.vegangoteborg.se/rest-deluxe.jpg}}\n\nSushihaken flockas runt kvarteren kring Fredsgatan och ett av de bättre är Sushi Delux. Trots en liten lokal med ett fåtal sittplatser, känns det inte alls trångt och stressigt, runt den hektiska lunchtiden. Vegansk misosoppa och te ingår alltid. Och maten håller hyfsad kvalitet med avocado och tofuhattar i välkomponerade rullar.\n\n**Adress**: Drottninggatan 51\n**Telefon**: 031-13 42 81\n**Hållplats**: Brunnsparken. \n**Hemsida**: –\n**Öppettider**: –\n**Alkoholrättigheter**: Nej.\n---\ntags: restaurant,east-asian,sushi,vegetarian,vegan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.969847,
+          57.697953
+        ]
+      },
+      "properties": {
+        "name": "Sushi Mamaya",
+        "description": "{{http://www.vegangoteborg.se/rest-mamaya.jpg}}\n\nSushi Mamaya är ett av de få sushihak i stan som inte ser ut som en kvarterspizzeria, utan rymmer en klädsam och mysig liten restuarang med alkoholservering. På tallriken får man ett trivsamt upplägg med de vanliga bitarna + liten sjögräsgarnering. Omelett ingår men går att byta ut.\n\n**Adress**: Aschebergsgatan 7\n**Telefon**: 031-130 666\n**Hållplats**: Vasaplatsen.\n**Hemsida**: http://sushimamaya.se\n**Öppettider**: Måndag-fredag 11-20, lördag 12-20.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,east-asian,sushi,vegetarian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9530898,
+          57.6991446
+        ]
+      },
+      "properties": {
+        "name": "Sushi Sendai",
+        "description": "{{http://www.vegangoteborg.se/rest-sendai.jpg}}\n\nSushi Sendai ligger lättillgängligt vid Järntorget. Lokalen är spartansk som de flesta sushihak men ändå tillräckligt trevlig för att sitta ner. Kvaliteten är hyfsad och ett plus är variationen med avocado, rättika, paprika, gurka och tofu.\n\n**Adress**: Landsvägsgatan 5,\n**Telefon**: 031-42 86 70\n**Hållplats**: Järntorget.\n**Hemsida**: –\n**Öppettider**: Måndag-fredag 11-20, lördag 12-18, söndag stängt.\n**Alkoholrättigheter**: Nej.\n---\ntags: restaurant,east-asian,sushi,vegetarian,vegan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9693131,
+          57.7035526
+        ]
+      },
+      "properties": {
+        "name": "Sushi Yama",
+        "description": "{{http://www.vegangoteborg.se/rest-yama.jpg}}\n\nPå Sushi Yama erbjuds en lite godare, lite roligare och lite snyggare sushi än på de vanliga snabbhaken. Förutom den klassiska avocadon, gurkan och tofuhattarna, serveras sparris, svampar och sjögrässallad. På menyn finns också smårätter i form av edemamebönor och annat gott. Med kvalitet följer något högre priser.\n\n**Adress**: Basargatan 10\n**Telefon**: 08-031 100 30\n**Hållplats**: Kungsportsplatsen.\n**Hemsida**: http://sushiyama.se\n**Öppettider**: Måndag-torsdag 11-21, fredag-lördag 11-22, söndag 12-21.\n**Alkoholrättigheter**: Nej.\n---\ntags: restaurant,east-asian,sushi,vegetarian,vegan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.9184626,
           57.685078
         ]
@@ -391,6 +503,48 @@
       "properties": {
         "name": "Syster Marmelad",
         "description": "{{http://www.vegangoteborg.se/rest-syster.jpg}}\n\nLakto-ovo-vegetariska Syster Marmelad är en finrestaurang med finess på ett avslappnat sätt. Här beställer man tre-fyra veganska mellanrätter och betraktar kocken som monterar de lilla kuberna med selleri, pluttarna av majonnäs eller vad som står på menyn för kvällen. Snygg lokal och skön uteservering.\n\n**Adress**: Mariagatan 16\n**Telefon**:  031-14 11 60\n**Hållplats**: Mariaplan eller Sannaplan.\n**Hemsida**: http://systermarmelad.se\n**Öppettider**: Tisdag-söndag 11-sent.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,vegetarian,vegan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.95462703704834,
+          57.69941704300347
+        ]
+      },
+      "properties": {
+        "name": "Tai Shanghai",
+        "description": "{{http://www.vegangoteborg.se/rest-shanghai.jpg}}\n\nThai Shanghai är ett skönt, omodernt kinahak med fem-sex vegorätter, med eller utan tofu. Här serveras silkentofu med cashewnötter och currysås eller varför inte testa rispastan? På östasiatiska restauranger kan det förekomma dold fisksås och räkpasta – ha för vana att fråga!\n\n**Adress**: Haga Östergata 4\n**Telefon**: 031-13 33 43\n**Hållplats**: Järntorget.\n**Hemsida**: –\n**Öppettider**: –\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,east-asian,vegetarian,vegan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.965711265802383,
+          57.70535530112146
+        ]
+      },
+      "properties": {
+        "description": "{{http://www.vegangoteborg.se/rest-isaan.jpg}}\n\nThai Isaan erbjuder de vanliga kokosgrytorna men också en del fina woker, i kryddiga såser och med krispiga nötter. Lokalen funkar för en snabb middag men saknar mysfaktor nog för en längre sittning. På östasiatiska restauranger kan det förekomma dold fisksås och räkpasta – ha för vana att fråga!\n\n**Adress**: Drottninggatan 21\n**Telefon**: 031-13 76 25\n**Hållplats**: Domkyrkan.\n**Hemsida**: http://thaiisaan.com\n**Öppettider**: Måndag till torsdag 10.30-14 och 17-21, fredag 10.30-14 och 17-02, lördag 17-02.\n**Alkoholrättigheter**: Ja. \n---\ntags: restaurant,east-asian,thai,vegetarian",
+        "name": "Thai Isaan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9618,
+          57.70284
+        ]
+      },
+      "properties": {
+        "name": "Thai Oriental Restaurant",
+        "description": "{{http://www.vegangoteborg.se/rest-oriental.jpg}}\n\nInriktningen på Thai Oriental är thai, kinesisk, laotisk och vietnamesisk mat men för veganer är det thaifokus som gäller. Här erbjuds de klassiska kokosgrytorna men välj med fördel massamancurryn som har det lilla extra. På östasiatiska restauranger kan det förekomma dold fisksås och räkpasta – ha för vana att fråga!\n\n**Adress**: Kaserntorget 6\n**Telefon**: 031-13 79 80\n**Hållplats**: Grönsakstorget.\n**Hemsida**: http://thaioriental.se\n**Öppettider**: Måndag 11-15, tisdag-torsdag 11-20, fredag 11-21, lördag 12.30-21.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,east-asian,vegetarian,vegan"
       }
     },
     {
@@ -412,6 +566,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.0126992,
+          57.7299666
+        ]
+      },
+      "properties": {
+        "name": "Usagi",
+        "description": "{{http://www.vegangoteborg.se/rest-usagi.jpg}}\n\nNär Usagi började med veganrätter strömmade veganerna till och njöt av den unika menyn med fyra små rätter, friterade \"räkor\", \"kyckling\"-spett och annat gott som varit efterlängtat. Lunchbuffé finns också och på à la carte erbjuds även indiska och japanska rätter. Även veganska drinkar finns, som White Russian.\n\n**Adress**: Brahegatan 8\n**Telefon**: 031-21 69 93\n**Hållplats**: SKF.\n**Hemsida**: http://usagi.se\n**Öppettider**: -\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,east-asian,vegetarian,vegan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.9337719,
           57.6988
         ]
@@ -419,6 +587,34 @@
       "properties": {
         "name": "Vegetariska köket",
         "description": "{{http://www.vegangoteborg.se/rest-sunset01.jpg}}\n\nFalafelkiosken på Stigbergstorget har haft en rad olika skyltar med olika namn och beskrivningar. Sunset Falafel tycks nu bytts mot Vegetariska köket. På skylten står det \"100 procent vegan\" vilket inte stämmer. Det som erbjuds veganer är främst falafelrulle med sesamsås och eventuellt någon burgare.\n\n**Adress**: Stigbergstorget.\n**Hållplats**: Stigbergstorget.\n**Hemsida**: –\n**Öppettider**: –\n**Alkoholrättigheter**: Nej.\n---\ntags: vegetarian,vegan,hamburger,falafel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9688342,
+          57.6978992
+        ]
+      },
+      "properties": {
+        "name": "Vi Viet",
+        "description": "{{http://www.vegangoteborg.se/rest-viviet.jpg}}\n\nVi Viet är en liten vietnamesisk pärla, en halvtrappa ner i Vasastan. Till förrätt kan man beställa färska vårrullar av rispapper, fyllda med nudlar och grönsaker. Till huvudrätt finns ett par klassiska curryrätter men välj med fördel tofu i chilibönsås eller tofu med bandnudlar och jordnötter.\n\n**Adress**: Erik Dahlbergsgatan 20\n**Telefon**: 031-13 28 88\n**Hållplats**: Vasaplatsen.\n**Hemsida**: http://viviet.se\n**Öppettider**: Måndag-torsdag 17-21, fredag 17-22, lördag 12-22. söndag 12-21.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,east-asian,vegetarian,vegan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.950979232788086,
+          57.69944642498055
+        ]
+      },
+      "properties": {
+        "name": "Yammy Kitchen",
+        "description": "{{http://www.vegangoteborg.se/rest-yammy.jpg}}\n\nYammy Kitchen är en koreansk-japansk restaurang med hyfsat hög klass och snyggt inredd lokal. Ett lagomställe för den som vill ha något enkelt men ändå fräsht. Veganerna har en helt egen menyrubrik, med både tofu och tzay. Den veganska bipimbapen är populär.\n\n**Adress**: Andra Långgatan 5\n**Telefon**: 031-12 73 55\n**Spårvagnshållplats**: Järntorget.\n**Hemsida**: http://yammyyammy.se\n**Öppettider**: Måndag-torsdag 11-22, fredag 11-23, lördag 12-23, söndag 12-21.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,east-asian,vegetarian,vegan,sushi"
       }
     }
   ]
