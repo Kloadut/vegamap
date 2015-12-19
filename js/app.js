@@ -317,12 +317,10 @@ function pointToLayer(feature, latlng) {
             icon = cafeIcon;
         } else if (featureTags.indexOf('pizza') !== -1) {
             icon = pizzaIcon;
-        } else if (featureTags.indexOf('hamburger') !== -1 || featureTags.indexOf('burger') !== -1) {
-            icon = burgerIcon;
         } else if (featureTags.indexOf('junk-food') !== -1) {
             icon = friesIcon;
-        } else if (featureTags.indexOf('pasta') !== -1) {
-            icon = pastaIcon;
+        } else if (featureTags.indexOf('hamburger') !== -1 || featureTags.indexOf('burger') !== -1) {
+            icon = burgerIcon;
         } else if (featureTags.indexOf('beer') !== -1 || featureTags.indexOf('pub') !== -1) {
             icon = beerIcon;
         } else if (featureTags.indexOf('restaurant') !== -1) {
