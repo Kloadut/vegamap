@@ -174,6 +174,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.969561576843262,
+          57.707663843336206
+        ]
+      },
+      "properties": {
+        "name": "Condeco",
+        "description": "{{http://www.vegangoteborg.se/rest-condeco02.jpg}}\n\nCondeco är en kafékedja som finns på en rad platser i stan och som även inkluderar systerkaféerna Evas Paley och Fröken Olsson. Varje vardag serveras en kall vegansk lunchbuffé och på måndagar även konceptet Green Monday med en trevlig nudelrätt. Blåbärsmuffins utgör fikautbudet.\n\n**Adress**: Götgatan 14 (Nordstan).\n**Telefon**: 031-15 50 65\n**Hållplats**: Brunnsparken.\n**Hemsida**: http://condeco.se\n**Öppettider**: Måndag-fredag 9-20, lördag-söndag 9-19.\n**Alkoholrättigheter**: Ja. \n---\ntags: café,salad,vegetarian,vegan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.9191197,
           57.69439
         ]
@@ -244,6 +258,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.9708772,
+          57.6994005
+        ]
+      },
+      "properties": {
+        "name": "Garbo Café",
+        "description": "{{http://www.vegangoteborg.se/rest-garbo.jpg}}\n\nMellan Vasaplatsen och Valand ligger en hel drös med kaféer. Ett av de trevligare, som kan erbjuda veganmat, är Garbo Café. På Garbo kan man peka och plocka sin egen tallrik full med pasta, cous cous, grönsaker, bönor och i Garbos fall även falafel. Mysig lokal och trevlig personal gör besöket extra piffigt.\n\n**Adress**: Vasagatan 40\n**Telefon**: 031-51 63 10\n**Hållplats**: Vasaplatsen.\n**Hemsida**: –\n**Öppettider**: –\n**Alkoholrättigheter**: Nej.\n---\ntags: café,pasta,falafel,salad,vegetarian,vegan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.9184768,
           57.6937598
         ]
@@ -251,6 +279,20 @@
       "properties": {
         "name": "Govindas",
         "description": "{{http://www.vegangoteborg.se/rest-govindas.jpg}}\n\nGovindas är Hare Krishnas lakto-ovo-vegetariska restaurangkedja, som i Göteborg hittas i Majorna. Maten serveras på en stålbricka och läggs upp av personalen bakom disk. I lunchen ingår ett antal smårätter: En curry, en soppa, chutney, sallad, bröd med mera. Veganmeny finns och det är fri påfyllning.\n\n**Adress**: Karl Johansgatan 57\n**Telefon**: 031-42 16 42\n**Hållplats**: Chapmans torg.\n**Hemsida**: http://govindas-goteborg.se\n**Öppettider**: Måndag-fredag 11.30-15.\n**Alkoholrättigheter**: Nej.\n---\ntags: restaurant,vegetarian,vegan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.966857910156248,
+          57.70955814234339
+        ]
+      },
+      "properties": {
+        "name": "Green & Rum",
+        "description": "{{http://www.vegangoteborg.se/rest-green.jpg}}\n\nGreen & Rum vid Lilla Bommen, på utsidan av Nordstan, är ett fräscht och avslappnat lunchkafé som satsat sallader, smörgåsar, raw food och fika. Veganer kan välja sallad med avocado och bönor eller smörgås med krispiga grönsaker och tapenade. Dessutom finns det raw food-fika som till exempel paj med cashewgrädde.\n\n**Adress**: Östra Hamngatan 16\n**Telefon**: 031-15 09 00.\n**Hållplats**: Lilla Bommen.\n**Hemsida**: greenochrum.se\n**Öppettider**: Måndag-fredag 06.30-21, lördag-söndag 9-21.\n**Alkoholrättigheter**: Nej.\n---\ntags: café,sandwich,salad,vegetarian,vegan"
       }
     },
     {
@@ -608,6 +650,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.9435483,
+          57.7075336
+        ]
+      },
+      "properties": {
+        "name": "Picadeli",
+        "description": "{{http://www.vegangoteborg.se/rest-picadeli.jpg}}\n\nPicadeli är främst ett salladsbarskoncept för butik men på Lindholmen finns en egen lunchrestaurang som bjuder in till en lååång rad med åtskilliga rätter. Det\nmesta är helt vegansk, förutom köttet som man väljer till. Här serveras bland annat marinerade grönsaker, bulgur, linser, quinoa, potatissallad, nudelwok och bönor.\n\n**Adress**: Theres Svenssons gata 9\n**Telefon**: 031-51 60 15\n**Hållplats**: Regnbågsgatan.\n**Hemsida**: http://picadeli.se\n**Öppettider**: Vardagar 11-14.\n**Alkoholrättigheter**: Nej.\n---\ntags: restaurant,salad,vegetarian,vegan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.954140216112137,
           57.70045901367479
         ]
@@ -656,7 +712,7 @@
       },
       "properties": {
         "name": "Sattva",
-        "description": "{{http://www.vegangoteborg.se/rest-sattva.jpg}}\n\nLakto-ovo-vegetariska Sattva är en indisk lunchrestaurang med hinduisk inriktning. Varje dag serveras dagens lunchrätter, till exempel kikärtsbiffar, thaiburgare, dumplings och olika soppor. Sattvas kusinrestaurang finns i Nimaihuset på Underåsgatan 24 i Gårda.\n\n**Adress**: Södra vägen 73.\n**Hållplats**: Korsvägen.\n**Hemsida**: http://sattvagbg.wordpress.com\n**Öppettider**: Måndag-fredag 11-15.30.\n**Alkoholrättigheter**: Nej.\n---\ntags: restaurant,vegetarian,hamburger,soup"
+        "description": "{{http://www.vegangoteborg.se/rest-sattva.jpg}}\n\nLakto-ovo-vegetariska Sattva är en indisk lunchrestaurang med hinduisk inriktning. Varje dag serveras dagens lunchrätter, till exempel kikärtsbiffar, thaiburgare, dumplings och olika soppor. Sattvas kusinrestaurang finns i Nimaihuset på Underåsgatan 24 i Gårda.\n\n**Adress**: Södra vägen 73.\n**Hållplats**: Korsvägen.\n**Hemsida**: http://sattvagbg.wordpress.com\n**Öppettider**: Måndag-fredag 11-15.30.\n**Alkoholrättigheter**: Nej.\n---\ntags: restaurant,indian,vegetarian,hamburger,soup"
       }
     },
     {
@@ -713,6 +769,20 @@
       "properties": {
         "name": "Spice",
         "description": "{{http://www.vegangoteborg.se/rest-spice.jpg}}\n\nSpice är en thairestaurang med lite högre klass och finns både på Kungstorget och Södra vägen. Snygg lokal och mat som är vackert serverad. På menyn finns de vanliga curryrätterna men de är tillagade med kärlek. På östasiatiska restauranger kan det förekomma dold fisksås och räkpasta – ha för vana att fråga!\n\n**Adress**: Södra Vägen 2\n**Telefon**: 031-13 22 35\n**Hållplats**: Berzeligatan.\n**Hemsida**: http://spiceitrestaurang.com\n**Öppettider**: Måndag-torsdag 11.30-23, fredag 11.30-01, lördag 12-01, söndag 13-22.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,east-asian,vegetarian,thai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9557343,
+          57.7024164
+        ]
+      },
+      "properties": {
+        "name": "Språkcaféet",
+        "description": "{{http://www.vegangoteborg.se/rest-sprakcafeet.jpg}}\n\nPå Esperantoplatsen ligger Språkcaféet, en samlingsplats för den som vill träna sina språkkunskaper. Lunchbuffén är vegetarisk men ganska smaklös. Högar med okryddade bönor, blir inte roligare för att det står en chokladfontän och porlar vid buffébordet.\n\n**Adress**: Esperantoplatsen 7-9\n**Telefon**: 31-774 21 50\n**Hållplats**: Järntorget.\n**Hemsida**: http://sprakcafeet.com\n**Öppettider**: Måndag-torsdag 10-20, fredag-lördag 10-17.30.\n**Alkoholrättigheter**: Nej.\n---\ntags: café,salad,vegetarian"
       }
     },
     {
@@ -838,7 +908,7 @@
       },
       "properties": {
         "name": "Taj Mahal",
-        "description": "Taj Mahal ligger sedan ett par år på Första Långgatan, i samma lokaler som tidigare rymt andra asiatiska krogar. Av någon mystisk anledningen går det inte att få till nån mysfaktor i den här lokalen. Maten är helt okej. Aaloo Ghobin är fyllig och smakrik, medan dhalen känns något spartansk.\n\n**Adress**: Första Långgatan 24\n**Telefon**: 031-24 60 20\n**Hållplats**: Masthuggstorget.\n**Hemsida**: http://tajmahalgbg.se\n**Öppettider**: Måndag-torsdag 11-21, fredag 11-22, lördag 13-22, söndag 13-21.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,indian,vegetarian"
+        "description": "{{http://www.vegangoteborg.se/rest-tajmahal.jpg}}\n\nTaj Mahal ligger sedan ett par år på Första Långgatan, i samma lokaler som tidigare rymt andra asiatiska krogar. Av någon mystisk anledningen går det inte att få till nån mysfaktor i den här lokalen. Maten är helt okej. Aaloo Ghobin är fyllig och smakrik, medan dhalen känns något spartansk.\n\n**Adress**: Första Långgatan 24\n**Telefon**: 031-24 60 20\n**Hållplats**: Masthuggstorget.\n**Hemsida**: http://tajmahalgbg.se\n**Öppettider**: Måndag-torsdag 11-21, fredag 11-22, lördag 13-22, söndag 13-21.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,indian,vegetarian"
       }
     },
     {
@@ -880,7 +950,7 @@
       },
       "properties": {
         "name": "Thali",
-        "description": "{{http://www.vegangoteborg.se/rest-thali.jpg}}\n\nThali är en trevlig indisk och lakto-ovo-vegetarisk restaurang som erbjuder spännande à la carte från både norra och södra Indien. Veganvänligheten är stor och naanbrödet är veganskt. Barn är i synnerhet välkomna att rita med färgpennor på dukarna.\n\nAdress: Värmlandsgatan 18B\nTelefon: 031-14 03 10\nHållplats: Masthuggstorget.\nHemsida: http://restaurangthali.se\nÖppettider: Måndag-onsdag 17-21, torsdag 17-21.30, fredag 16-22, lördag 13-22, söndag 13-21. Tiderna avses kökets öppettider.\nAlkoholrättigheter: Ja. \n---\ntags: restaurant,indian,vegetarian"
+        "description": "{{http://www.vegangoteborg.se/rest-thali.jpg}}\n\nThali är en trevlig indisk och lakto-ovo-vegetarisk restaurang som erbjuder spännande à la carte från både norra och södra Indien. Veganvänligheten är stor och naanbrödet är veganskt. Barn är i synnerhet välkomna att rita med färgpennor på dukarna.\n\n**Adress**: Värmlandsgatan 18B\n**Telefon**: 031-14 03 10\n**Hållplats**: Masthuggstorget.\n**Hemsida**: http://restaurangthali.se\n**Öppettider**: Måndag-onsdag 17-21, torsdag 17-21.30, fredag 16-22, lördag 13-22, söndag 13-21. Tiderna avses kökets öppettider.\n**Alkoholrättigheter**: Ja. \n---\ntags: restaurant,indian,vegetarian,vegan"
       }
     },
     {
@@ -894,7 +964,7 @@
       },
       "properties": {
         "name": "Thali",
-        "description": "{{http://www.vegangoteborg.se/rest-thali.jpg}}\n\nThali är en trevlig indisk och lakto-ovo-vegetarisk restaurang som erbjuder spännande à la carte från både norra och södra Indien. Veganvänligheten är stor och naanbrödet är veganskt. Barn är i synnerhet välkomna att rita med färgpennor på dukarna.\n\n**Adress**: Värmlandsgatan 18B\n**Telefon**: 031-14 03 10\n**Hållplats**: Masthuggstorget.\n**Hemsida**: http://restaurangthali.se\n**Öppettider**: Måndag-onsdag 17-21, torsdag 17-21.30, fredag 16-22, lördag 13-22, söndag 13-21. Tiderna avses kökets öppettider.\n**Alkoholrättigheter**: Ja. \n---\ntags: restaurant,indian,vegetarian,vegan"
+        "description": "{{http://www.vegangoteborg.se/rest-thali.jpg}}\n\nThali är en trevlig indisk och lakto-ovo-vegetarisk restaurang som erbjuder spännande à la carte från både norra och södra Indien. Veganvänligheten är stor och naanbrödet är veganskt. Barn är i synnerhet välkomna att rita med färgpennor på dukarna.\n\nAdress: Värmlandsgatan 18B\nTelefon: 031-14 03 10\nHållplats: Masthuggstorget.\nHemsida: http://restaurangthali.se\nÖppettider: Måndag-onsdag 17-21, torsdag 17-21.30, fredag 16-22, lördag 13-22, söndag 13-21. Tiderna avses kökets öppettider.\nAlkoholrättigheter: Ja. \n---\ntags: restaurant,indian,vegetarian"
       }
     },
     {
