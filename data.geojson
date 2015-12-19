@@ -12,7 +12,7 @@
       },
       "properties": {
         "name": "Amazing thai",
-        "description": "{{http://www.vegangoteborg.se/rest-amazing.jpg}}\n\nAmazing Thai är en vacker och välutsmyckad restaurang nära Heden. Det vegetariska utbudet är inte stort men hit går man för att få den utsökta vegokycklingen – fyra marinerade och knaprigt stekta vegokycklinglår tillsammans med grönsaker. På östasiatiska restauranger kan det förekomma dold fisksås och räkpasta – ha för vana att fråga!\n\n**Adress**: Vasagatan 43B\n**Telefon**: 031-81 48 05\n**Hållplats**: Valand.\n**Hemsida**: http://amazingthai.nu\n**Öppettider**: Måndag-torsdag 11-15 och 17-22, fredag 11-15 och 17-23, lördag 12-23, söndag 13-22.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,east-asian,vegetarian,vegan"
+        "description": "{{http://www.vegangoteborg.se/rest-amazing.jpg}}\n\nAmazing Thai är en vacker och välutsmyckad restaurang nära Heden. Det vegetariska utbudet är inte stort men hit går man för att få den utsökta vegokycklingen – fyra marinerade och knaprigt stekta vegokycklinglår tillsammans med grönsaker. På östasiatiska restauranger kan det förekomma dold fisksås och räkpasta – ha för vana att fråga!\n\n**Adress**: Vasagatan 43B\n**Telefon**: 031-81 48 05\n**Hållplats**: Valand.\n**Hemsida**: http://amazingthai.nu\n**Öppettider**: Måndag-torsdag 11-15 och 17-22, fredag 11-15 och 17-23, lördag 12-23, söndag 13-22.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,east-asian,vegetarian,vegan,thai"
       }
     },
     {
@@ -34,8 +34,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.947728,
-          57.6991196
+          11.947717666625977,
+          57.699125371840836
         ]
       },
       "properties": {
@@ -216,6 +216,118 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.9528666,
+          57.6937118
+        ]
+      },
+      "properties": {
+        "name": "Hello Monkey (Linnégatan)",
+        "description": "{{http://www.vegangoteborg.se/rest-monkey.jpg}}\n\nHello Monkey är en trendig innerstadskrog som finns på två platser. Menyn är lyxigt östasiatisk och det går utmärkt att knåpa ihop en trerättersmiddag. Flertalet spännande förrätter finns på menyn men till huvudrätt erbjuds i huvudsak en hyfsad bipimbap som inte överraskar. Kokossorbet till efterrätt.\n\n**Adress**: Linnégatan 52\n**Telefon**: 031-12 52 10\n**Hållplats**: Olivedalsgatan.\n**Hemsida**: http://hellomonkey.net\n**Öppettider**: Måndag-lördag från 17.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,east-asian,vegetarian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.963034,
+          57.7027764
+        ]
+      },
+      "properties": {
+        "name": "Hello Monkey (Magasinsgatan)",
+        "description": "{{http://www.vegangoteborg.se/rest-monkey.jpg}}\n\nHello Monkey är en trendig innerstadskrog som finns på två platser. Menyn är lyxigt östasiatisk och det går utmärkt att knåpa ihop en trerättersmiddag. Flertalet spännande förrätter finns på menyn men till huvudrätt erbjuds i huvudsak en hyfsad bipimbap som inte överraskar. Kokossorbet till efterrätt.\n\n**Adress**: Magasinsgatan 26\n**Telefon**: 031-13 04 42\n**Hållplats**: Grönsakstorget\n**Hemsida**: http://hellomonkey.net\n**Öppettider**: Söndag-fredag från 17, lördag från 13.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,east-asian,vegetarian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9655501,
+          57.6992884
+        ]
+      },
+      "properties": {
+        "name": "Lai-Wa",
+        "description": "{{http://www.vegangoteborg.se/rest-laiwa.jpg}}\n\nI en sparsmakad men trevlig lokal serveras olika kinesiska woker och tofurätter samt paradrätten Buddistisk tempelgryta med grönsaker, guldnålssvampar och kinesiska öronsvampar med glasnudlar i sojasås. På östasiatiska restauranger kan det förekomma dold fisksås och räkpasta – ha för vana att fråga!\n\n**Adress**: Storgatan 11\n**Telefon**: 031-711 02 39\n**Hållplats**: Vasa/Viktoriagatan.\n**Hemsida**: http://lai-wa.se\n**Öppettider**: Måndag-fredag 15-22, lördag 12-22, söndag 12-21.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,east-asian,vegetarian,vegan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.950622,
+          57.69879
+        ]
+      },
+      "properties": {
+        "name": "Made In China",
+        "description": "{{http://www.vegangoteborg.se/rest-madeinchina.jpg}}\n\nI det nya krogkvarteret på Tredje Lång med innergård, food truck och flertalet nyöppnade restauranger, ligger trendiga Made in China. Svart, industriell inredning och vällagad mat. \"Allt som ser veganskt ut är veganskt\" är devisen. Man väljer två-tre rätter för att bli mätt och resultatet blir en skön och varierad kväll.\n\n**Adress**: Tredje Långgatan 9\n**Telefon**: 031-309 52 10\n**Hållplats**: Järntorget.\n**Hemsida**: http://madeinchina.nu\n**Öppettider**: Måndag-fredag 11.30-sent, lördag-söndag 12-sent.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,east-asian,vegetarian,vegan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.946731,
+          57.698889
+        ]
+      },
+      "properties": {
+        "name": "Mae Krua",
+        "description": "{{http://www.vegangoteborg.se/rest-maekrua.jpg}}\n\nMae Krua på Andra Långgatan är ett slinka-in-ställe där man inte sitter en hel kväll och myser. De klassiska tofurätterna med röd och grön curry, panäng och massaman presenteras utan överraskningar. På östasiatiska restauranger kan det förekomma dold fisksås och räkpasta – ha för vana att fråga!\n\n**Adress**: Andra Långgatan 24\n**Telefon**: 031-24 25 18\n**Hållplats**: Masthuggstorget.\n**Hemsida**: –\n**Öppettider**: Måndag-fredag 11-21, lördag-söndag 12-21.\n**Alkoholrättigheter**: Nej.\n---\ntags: restaurant,east-asian,vegetarian,vegan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9669163,
+          57.7082578
+        ]
+      },
+      "properties": {
+        "name": "Malaysia Saté Restaurant",
+        "description": "{{http://www.vegangoteborg.se/rest-malaysia.jpg}}\n\nMalaysia är en vacker och rymlig restaurang som har flera veganska rätter på menyn. Här serveras silkentofu och böngroddar med både chili och kokosmjölk och är ett av de få ställen i stan som erbjuder tempeh. På östasiatiska restauranger kan det förekomma dold fisksås och räkpasta – ha för vana att fråga!\n\n**Adress**: Östra Hamngatan 19\n**Telefon**: 031-711 57 10.\n**Hållplats**: Brunnsparken.\n**Hemsida**: http://malaysiasate.se\n**Öppettider**: –\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,east-asian,vegetarian,vegan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9582899,
+          57.7011964
+        ]
+      },
+      "properties": {
+        "name": "Market",
+        "description": "{{http://www.vegangoteborg.se/rest-market.jpg}}\n\nAtt placera in Market under fliken Östasiatiskt är grymt förenklat. Market är en härlig och trendsäker krog med inriktning på komex – en fusion mellan koreanskt och mexikanskt. Tråkigt nog står det veganska inte på menyn men det går att fylla ett helt bord med miniburgare, tacos och andra smårätter i spännande tappning.\n\n**Adress**: Rosenlundsgatan 8\n**Telefon**: 031-13 12 11\n**Hållplats**: Hagakyrkan.\n**Hemsida**: http://marketrosenlund.se\n**Öppettider**: Måndag-fredag 11.30-14 och 17-01, lördag 17-01.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,vegetarian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.969175338745117,
+          57.70345934913031
+        ]
+      },
+      "properties": {
+        "name": "S.P.I.C.E",
+        "description": "{{http://www.vegangoteborg.se/rest-spice.jpg}}\n\nSpice är en thairestaurang med lite högre klass och finns både på Kungstorget och Södra vägen. Snygg lokal och mat som är vackert serverad. På menyn finns de vanliga curryrätterna men de är tillagade med kärlek. På östasiatiska restauranger kan det förekomma dold fisksås och räkpasta – ha för vana att fråga!\n\n**Adress**: Kungstorget 14\n**Telefon**: 031-13 22 33\n**Hållplats**: Kungsportsplatsen\n**Hemsida**: spiceitrestaurang.com\n**Öppettider**: Måndag-torsdag 11.30-23, fredag 11.30-00, lördag 12-00, söndag 13-22.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,east-asian,thai,vegetarian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.989259719848631,
           57.693827584180944
         ]
@@ -230,13 +342,41 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.9567362,
-          57.6990349
+          11.956729888916016,
+          57.69903364184967
         ]
       },
       "properties": {
         "name": "Solrosen",
         "description": "{{http://www.vegangoteborg.se/rest-solrosen.jpg}}\n\nSolrosen är en lakto-ovo-vegetarisk restaurang med hög bohemfaktor. Veganskt finns alltid på menyn med någon form av bön- och grönsaksgryta och man väljer själv mellan råris, pasta och ugnstekt kulpotatis. Salladsbuffén är populär och det är fri påyllning. Det finns också veganska pajer med vaniljsås till efterrrätt.\n\n**Adress**: Kaponjärgatan 4A\n**Telefon**: 031-711 66 97\n**Hållplats**: Hagakyrkan.\n**Hemsida**: http://restaurangsolrosen.se\n**Öppettider**: Måndag-torsdag 11.30-22.30, fredag 11.30-23.30, lördag 13-23.30, söndag 14-19.30. Reducerade öppettider under sommaren.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,vegetarian,vegan,soup"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.980002075433731,
+          57.69970226216395
+        ]
+      },
+      "properties": {
+        "name": "Spice",
+        "description": "{{http://www.vegangoteborg.se/rest-spice.jpg}}\n\nSpice är en thairestaurang med lite högre klass och finns både på Kungstorget och Södra vägen. Snygg lokal och mat som är vackert serverad. På menyn finns de vanliga curryrätterna men de är tillagade med kärlek. På östasiatiska restauranger kan det förekomma dold fisksås och räkpasta – ha för vana att fråga!\n\n**Adress**: Södra Vägen 2\n**Telefon**: 031-13 22 35\n**Hållplats**: Berzeligatan.\n**Hemsida**: http://spiceitrestaurang.com\n**Öppettider**: Måndag-torsdag 11.30-23, fredag 11.30-01, lördag 12-01, söndag 13-22.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,east-asian,vegetarian,thai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9649879,
+          57.7052525
+        ]
+      },
+      "properties": {
+        "name": "Sukho Thai",
+        "description": "{{http://www.vegangoteborg.se/rest-sukhothai.jpg}}\n\nSukho Thais källarläge bjuder på mysig atmosfär med valv och tegel. De klassiska curryrätterna är rika på grönsaker och en särdeles god tofu – en specialimporterad tuggig variant som inte går av för hackor. På östasiatiska restauranger kan det förekomma dold fisksås och räkpasta – ha för vana att fråga!\n\n**Adress**: Drottninggatan 17\n**Telefon**: 031-711 07 11\n**Hållplats**: Domkyrkan.\n**Hemsida**: –\n**Öppettider**: Måndag-fredag 11-23, lördag 13-24, söndag 13-22.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,east-asian,vegetarian,thai"
       }
     },
     {
