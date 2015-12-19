@@ -313,6 +313,8 @@ function pointToLayer(feature, latlng) {
             icon = indianIcon;
         } else if (featureTags.indexOf('east-asian') !== -1) {
             icon = noodleIcon;
+        } else if (featureTags.indexOf('café') !== -1) {
+            icon = cafeIcon;
         } else if (featureTags.indexOf('pizza') !== -1) {
             icon = pizzaIcon;
         } else if (featureTags.indexOf('hamburger') !== -1 || featureTags.indexOf('burger') !== -1) {
@@ -321,8 +323,6 @@ function pointToLayer(feature, latlng) {
             icon = friesIcon;
         } else if (featureTags.indexOf('pasta') !== -1) {
             icon = pastaIcon;
-        } else if (featureTags.indexOf('café') !== -1) {
-            icon = cafeIcon;
         } else if (featureTags.indexOf('beer') !== -1 || featureTags.indexOf('pub') !== -1) {
             icon = beerIcon;
         } else if (featureTags.indexOf('restaurant') !== -1) {
