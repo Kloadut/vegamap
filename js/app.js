@@ -173,6 +173,16 @@ var friesIcon = L.icon({
     popupAnchor:  [0, -36] // point from which the popup should open relative to the iconAnchor
 });
 
+var burgerIcon = L.icon({
+    iconUrl: 'images/icons/burger.png',
+
+    iconSize:     [50, 50], // size of the icon
+    shadowSize:   [50, 50], // size of the shadow
+    iconAnchor:   [24, 47], // point of the icon which will correspond to marker's location
+    shadowAnchor: [24, 47],  // the same for the shadow
+    popupAnchor:  [0, -36] // point from which the popup should open relative to the iconAnchor
+});
+
 var pizzaIcon = L.icon({
     iconUrl: 'images/icons/pizza.png',
 
@@ -305,6 +315,8 @@ function pointToLayer(feature, latlng) {
             icon = noodleIcon;
         } else if (featureTags.indexOf('pizza') !== -1) {
             icon = pizzaIcon;
+        } else if (featureTags.indexOf('hamburger') !== -1 || featureTags.indexOf('burger') !== -1) {
+            icon = burgerIcon;
         } else if (featureTags.indexOf('junk-food') !== -1) {
             icon = friesIcon;
         } else if (featureTags.indexOf('pasta') !== -1) {

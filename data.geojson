@@ -6,6 +6,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.9737058,
+          57.6989442
+        ]
+      },
+      "properties": {
+        "name": "3 små rum",
+        "description": "{{http://www.vegangoteborg.se/rest-tresmarum.jpg}}\n\n3 små rum är ett mysigt krypin med persiska mattor, jazzig musik och stort ölfokus. Det finns flera vegoburgare på menyn varav en är vegansk. Trevligt med egengjord burgare men med tortillachips blir det något magert.\n\n**Adress**: Kristinelundsgatan 4\n**Telefon**: 031-18 19 04\n**Hållplats**: Valand.\n**Hemsida**: http://3smarum.se\n**Öppettider**: Måndag-torsdag 16-23, lördag-söndag 16-00.\n**Alkoholrättigheter**: Ja.\n---\ntags: pub,hamburger,vegetarian,vegan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.9679411,
           57.7035221
         ]
@@ -55,6 +69,20 @@
       "properties": {
         "name": "Bangkok Kitchen",
         "description": "{{http://www.vegangoteborg.se/rest-laithai.jpg}}\n\nLai thai har bytt namn, renoverat sin lokal och börjat servera alkohol. Här erbjuds de vanliga curryrätterna i välsmakande tappning men också några wokrätter med het basilika eller cashewnötter. På östasiatiska restauranger kan det förekomma dold fisksås och räkpasta – ha för vana att fråga!\n\n**Adress**: Andra Långgatan 21\n**Telefon**: 031-42 35 53\n**Hållplats**: Masthuggstorget.\n**Hemsida**: http://laithai.se\n**Öppettider**: Måndag-fredag 11-21, lördag-söndag 12-21.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,east-asian,vegetarian,vegan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9485971,
+          57.7194643
+        ]
+      },
+      "properties": {
+        "name": "Barleys Food Factory",
+        "description": "{{http://www.vegangoteborg.se/rest-barleys.jpg}}\n\nNyöppnade Barleys på Kvilletorget är en trendig bar och restaurang som passar både skägg- och dreadsbärare. Här serveras en seitan- och bönburgare piffigt presenterad tillsammans med förslagsvis sötpotatispommes. Till efterätt finns milkshakes i flera smaker.\n\n**Adress**: Kvilletorget 20\n**Telefon**: 0709-22 45 53\n**Hållplats**: Vågmästareplatsen.\n**Hemsida**: http://barleys.se\n**Öppettider**: Måndag-torsdag 17-23, fredag 16-23, lördag 13-23.\n**Alkoholrättigheter**: Ja.\n---\ntags: pub,hamburger,vegetarian,vegan"
       }
     },
     {
@@ -152,7 +180,7 @@
       },
       "properties": {
         "name": "Crippas Café",
-        "description": "{{http://www.vegangoteborg.se/rest-crippas.jpg}}\n\nCrippas drivs av den gamle Attentatpunkaren Crippa och hans döttrar. Här råder skön atmosfär och det finns plats för både luncher, fika, mingel, quiz och spelningar den lilla lokalen till trots. På Crippas Café råder principen \"allt är vegansk men det går att få lakto-ovo-vegetariskt\". Mackor, soppor, burgare, fika, kaffe, öl och annat gott utgör menyn.\n\n**Adress**: Kusttorget 1,\n**Telefon**: 0703-13 16 30\n**Hållplats**: Chapmans torg.\n**Hemsida**: https://www.facebook.com/crippascafe\n**Öppettider**: -\n**Alkoholrättigheter**: Ja.\n---\ntags: café,vegan,vegetarian,soup,hamburger,beer"
+        "description": "{{http://www.vegangoteborg.se/rest-crippas.jpg}}\n\nCrippas drivs av den gamle Attentatpunkaren Crippa och hans döttrar. Här råder skön atmosfär och det finns plats för både luncher, fika, mingel, quiz och spelningar den lilla lokalen till trots. På Crippas Café råder principen \"allt är vegansk men det går att få lakto-ovo-vegetariskt\". Mackor, soppor, burgare, fika, kaffe, öl och annat gott utgör menyn.\n\n**Adress**: Kusttorget 1,\n**Telefon**: 0703-13 16 30\n**Hållplats**: Chapmans torg.\n**Hemsida**: https://www.facebook.com/crippascafe\n**Öppettider**: -\n**Alkoholrättigheter**: Ja.\n---\ntags: café,vegan,vegetarian,soup,hamburger"
       }
     },
     {
@@ -244,6 +272,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.9544144,
+          57.6924814
+        ]
+      },
+      "properties": {
+        "name": "Gyllene Prag",
+        "description": "{{http://www.vegangoteborg.se/rest-prag.jpg}}\n\nGyllene Prag är en tjeckisk restaurang och ölsjapp på Sveaplan. Här serveras typiska djurschnitzlar, panerade koostar och knödeln men på menyn ryms också en trevlig hemmagjord veganburgare med ajvar och rikligt med grönt.\n\n**Adress**: Sveagatan 25\n**Telefon**: 031-13 62 62\n**Hållplats**: Olivedalsgatan.\n**Hemsida**: http://gylleneprag.se\n**Öppettider**: Måndag-fredag 11-sent, lördag-söndag 12-sent.\n**Alkoholrättigheter**: Ja.\n---\ntags: pub,hamburger,vegetarian,vegan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.9506,
           57.6966
         ]
@@ -251,6 +293,20 @@
       "properties": {
         "name": "Hagabions Café",
         "description": "{{http://www.vegangoteborg.se/rest-hagabion.jpg}}\n\nLakto-ovo-vegetariska Hagabion med källarvåningen Kino är trendigt smålyxigt och ett givet uteserveringshäng. Maten är genomtänkt men menyn ändras då och då och veganutbudet får ibland en lite undanskymd plats. Förvänta dig sorl och uppsluppen stämning.\n\n**Adress**: Linnégatan 21\n**Telefon**:  031-42 88 10\n**Hållplats**: Prinsgatan.\n**Hemsida**: http://hagabionscafe.se\n**Öppettider**: Måndag-söndag från 17.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,vegetarian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9422503,
+          57.6990919
+        ]
+      },
+      "properties": {
+        "name": "Haket",
+        "description": "{{http://www.vegangoteborg.se/rest-haket.jpg}}\n\nHaket är en opretentiös pubpärla med imponerande ölsortimentet och genomtrevlig personal. Här serveras en egengjord seitanburgare med majjodressing, coleslaw och pommes frites, chilligryta med ris och chokladkaka. Haket är populärt bland synthare, karaokeälskare och profilerar sig även som gayvänligt.\n\n**Adress**: Första Långgatan 32\n**Telefon**: 031-14 58 88\n**Hållplats**: Masthuggstorget.\n**Hemsida**: http://haketpub.se\n**Öppettider**: Måndag-torsdag 17-01, fredag-lördag 17-02.\n**Alkoholrättigheter**: Ja.\n---\ntags: pub,hamburger,vegetarian,vegan"
       }
     },
     {
@@ -279,6 +335,20 @@
       "properties": {
         "name": "Hälsosushi",
         "description": "{{http://www.vegangoteborg.se/rest-halsosushi.jpg}}\n\nI hörnet vid Östra Larmgatan/Kyrkogatan ligger Hälsosushi. Enligt egen utsago serveras sushi av högsta kvalitet och med bästa råvaror. Som lekman är sushin ungefär sig lik på de allra flesta ställen. På Hälsosushi kan man välja mellan två olika tallrikar: Vegi Avocado och Vegi Tofu. Den senare innehåller ägg så be att få byta ut.\n\n**Adress**: Östra Larmgatan 9\n**Telefon**: 031-13 85 77\n**Hållplats**: Brunnsparken.\n**Hemsida**: http://halsosushi.se\n**Öppettider**: Måndag-fredag 11-20, lördag-söndag 12-18.\n**Alkoholrättigheter**: Nej.\n---\ntags: sushi,restaurant,east-asian,vegetarian,vegan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.974252,
+          57.701228
+        ]
+      },
+      "properties": {
+        "name": "Hard Rock Café",
+        "description": "{{http://www.vegangoteborg.se/rest-hardrock.jpg}}\n\nKlassiska världsomspännande kedjan Hard Rock Café finns så klart även i Göteborg och ganska självklart på Avenyn. Här serveras en egengjord Caribbean Black Bean Burger med mango chutney-glaze. Burgaren blir helt vegansk efter viss modifieringen med dressingen.\n\n**Adress**: Kungsportsavenyn 10\n**Telefon**: 031-10 23 30\n**Hållplats**: Valand.\n**Hemsida**: http://gbg.hardrock.se\n**Öppettider**: Måndag 11.30-00, tisdag-torsdag 11.30-01, fredag 11.30-03, lördag 12-04, söndag 12-00.\n**Alkoholrättigheter**: Ja.\n---\ntags: pub,hamburger,vegetarian"
       }
     },
     {
@@ -321,6 +391,34 @@
       "properties": {
         "name": "Indiska Hörnet",
         "description": "{{http://www.vegangoteborg.se/rest-hornet.jpg}}\n\nIndiska hörnet har åtta vegorätter på menyn men tyvärr är det bara Channa Masala som erbjuds veganer vid vårt besök. Rätten, som består av kikärter i en brun sås utan grönsaker, är ingen fantastisk smakupplevelse men den är helt klart ätbar och stämningen är gemytlig.\n\n**Adress**: Hvitfeldtsgatan 13\n**Telefon**: 031-711 66 69\n**Hållplats**: Grönsakstorget.\n**Hemsida**: http://indiskahornet.se\n**Öppettider**: Måndag-fredag 11-22, lördag 13-22, söndag 13-21.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,indian,vegetarian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9453455,
+          57.6987298
+        ]
+      },
+      "properties": {
+        "name": "Kellys",
+        "description": "{{http://www.vegangoteborg.se/rest-kellys.jpg}}\n\nKellys är ett klassiskt hak och en oas för stans veganer. Förutom en rad pizzor med kebab och vegokyckling, serveras hemlagade jätteburgare, fajitas med sojafärs och mycket annat. Ett givet \"sunkpubshäng\" med punkig atmosfär.\n\n**Adress**: Andra Långgatan 28\n**Telefon**: 031-42 19 19\n**Hållplats**: Masthuggstorget.\n**Hemsida**: –\n**Öppettider**: Söndag-torsdag 18-01, fredag-lördag 18-02.\n**Alkoholrättigheter**: Ja.\n---\ntags: pub,pizza,vegetarian,vegan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9467413,
+          57.7186715
+        ]
+      },
+      "properties": {
+        "name": "Kville Restaurang & Pasta House",
+        "description": "{{http://www.vegangoteborg.se/rest-kvillepasta.jpg}}\n\nKville Pasta är ett klassiskt stammishak men med en överraskande trevlig veganmeny. Här erbjuds burgare med aioli, pasta bolognese, seitanstek med potatisgratäng, chorizogratäng och mycket annat. Glass och varma hallon serveras som dessert. En helt unik meny, med rätter som du inte hittar nån annanstans i stan.\n\n**Adress**: Brämaregatan 14\n**Telefon**: 031-22 60 39\n**Hållplats**: Vågmästareplatsen.\n**Hemsida**: –\n**Öppettider**: –\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,pasta,hamburger,vegetarian,vegan"
       }
     },
     {
@@ -433,6 +531,104 @@
       "properties": {
         "name": "New Dehli",
         "description": "{{http://www.vegangoteborg.se/rest-dehli.jpg}}\n\nNew Dehli är en indisk restaurang med hyfsad mysfaktor och trevlig atmosfär. Det finns flera veganska rätter på menyn med linser och kikärter som smakar bra utan att överraska. Portionerna är något små och hit går man när man befinner sig i krokarna och är sugen på skön stämning utan att vara vrålhungrig.\n\n**Adress**: Vasagatan 4\n**Telefon**: 031-13 18 78\n**Hållplats**: Vasa/Viktoriagatan.\n**Hemsida**: http://newdelhigbg.se\n**Öppettider**: –\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,indian,vegetarian,vegan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.968594,
+          57.705056
+        ]
+      },
+      "properties": {
+        "name": "O'Learys",
+        "description": "{{http://www.vegangoteborg.se/rest-olearys.jpg}}\n\nUnder något slags nationell testperiod har nu sportbaren O'Learys tagit fram en näst intill vegansk meny. Menyn består av olika rätter med sojaprodukten Oumph. På menyn finns burgare, quesadillas, fajitas med mera. Några av rätterna är riktigt små, utan att de anges som förrätter. Ceasarsalladen innehåller parmesan.\n\n**Adress**: Östra Hamngatan 37\n**Telefon**: 031-711 55 19\n**Hållplats**: Brunnsparken.\n**Hemsida**: http://olearys.se\n**Öppettider**: Måndag-torsdag 11-00, fredag 11-01, lördag 12-01, söndag 12-00. Fler öppettider på hemsidan!\n**Alkoholrättigheter**: Ja.\n---\ntags: pub,hamburger,vegetarian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.011907,
+          57.729092
+        ]
+      },
+      "properties": {
+        "name": "Old Corner",
+        "description": "{{http://www.vegangoteborg.se/rest-oldcorner02.jpg}}\n\nOld Corner är en trevlig kvarterskrog med det som förmodligen är Göteborgs största veganmeny. Här erbjuds ett 15-tal pizzor, burgare, \"pulled pork\", schnitzel, fajitas, pastarätter med mera. Menyn tycks aldrig ta slut. Efterrätter finns också i form av bananasplit, pannacotta med mera.\n\n**Adress**: Artillerigatan 14\n**Hållplats**: SKF.\n**Hemsida**: oldcorner.net\n**Öppettider**: Måndag-torsdag 14-01, fredag-lördag 12-02, söndag 12-01.\n**Alkoholrättigheter**: Ja.\n---\ntags: pub,restaurant,pizza,pasta,hamburger,vegetarian,vegan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9618657,
+          57.7077494
+        ]
+      },
+      "properties": {
+        "name": "Ölrepubliken",
+        "description": "{{http://www.vegangoteborg.se/rest-olrepubliken.jpg}}\n\nTrevliga Ölrepubliken vid de anrika Kronhusbodarna, har ett gigantiskt ölsortiment och ett sorligt klientel alla dagar i veckan. Här serveras en egengjord rödbetsburgare men tyvärr blir det utan aioli och coleslaw. Klyftpotatis och HP-sås räddar måltiden.\n\n**Adress**: Kronhusgatan 2B\n**Telefon**: 031-711 37 10\n**Hållplats**: Brunnsparken.\n**Hemsida**: http://olrepubliken.se\n**Öppettider**: Måndag-torsdag 11-sent, fredag 11-01, lördag 13-01.\n**Alkoholrättigheter**: Ja.\n---\ntags: pub,hamburger,vegetarian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9491846,
+          57.6927103
+        ]
+      },
+      "properties": {
+        "name": "Pasta Haus",
+        "description": "{{http://www.vegangoteborg.se/rest-pastahaus.jpg}}\n\nPasta Haus är en kura-ihop-sig-restaurang med rykande het pasta och en av få pastarestauranger som över huvud taget har en vegetarisk meny. Inget är uttalat veganskt men det går att trixa ihop flera olika rätter med penne, grönsaker, kantareller, vitlök, tomatsås eller annat som faller en i smaken.\n\n**Adress**: Nordenskiöldsgatan 25\n**Telefon**: 031-24 27 11\n**Hållplats**: Olivedalsgatan.\n**Hemsida**: http://pastahaus.se\n**Öppettider**: Måndag-torsdag 11-22, fredag 11-23, lördag 12-23, söndag 12-22.*\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,mediterranean,pasta,vegetarian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9802759,
+          57.6995317
+        ]
+      },
+      "properties": {
+        "name": "Pasta+",
+        "description": "I Rom är Penne All´Arrabbiata en klassiker på alla pastarestauranger: En het och tomatig chilisås med penne. I Sverige innehåller rätten nästan alltid skinka. Men inte på Pasta+. Boka ett bord en fredagkväll och lek Lady och Lufsen för en stund. Dukarna är rödrutiga och servicen god.\n\n**Adress**: Södra vägen 2\n**Telefon**: 031-16 56 09\n**Hållplats**: Berzeliigatan.\n**Hemsida**: http://pastaplus.se\n**Öppettider**: Måndag-torsdag 12-22.30, fredag-lördag12-23, söndag 12-21.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,mediterranean,pasta,vegetarian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.954140216112137,
+          57.70045901367479
+        ]
+      },
+      "properties": {
+        "name": "Pustervik",
+        "description": "{{http://www.vegangoteborg.se/rest-pustervik.jpg}}\n\nPustervik på Järntorget är oerhört svårkategoriserat. Det är en bar, en klubb, en spellokal, ett lunchhak och kafé på en och samma gång. Varje dag finns veckans vegansoppa, macka med hummus och en chiligryta som med fördel avnjutes till middag.\n\n**Adress**: Järntorgsgatan 12.\n**Hållplats**: Järntorget.\n**Hemsida**: http://pustervik.nu\n**Öppettider**: Måndag-torsdag 11-02, fredag 11-03, lördag 17-03, söndag 17-02.\n**Alkoholrättigheter**: Ja.\n---\ntags: café,pub,vegetarian,vegan,soup"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9197687,
+          57.6864054
+        ]
+      },
+      "properties": {
+        "name": "Red Lion",
+        "description": "{{http://www.vegangoteborg.se/rest-redlion.jpg}}\n\nRed Lion är en institution vid Mariaplan i Kungsladugård. Här slinker man in på öl/läsk och quiz och numera även en egengjord rödbetsburgare som man får trixa lite med för att få den vegansk.\n\n**Adress**: Mariagatan 11\n**Telefon**: 031-12 30 30\n**Hållplats**: Mariaplan.\n**Hemsida**: http://redlion.se\n**Öppettider**: Måndag-fredag 16-00, lördag 13-01, söndag 13-23.\n**Alkoholrättigheter**: Ja.\n---\ntags: pub,hamburger,vegetarian"
       }
     },
     {
@@ -699,6 +895,34 @@
       "properties": {
         "name": "Thali",
         "description": "{{http://www.vegangoteborg.se/rest-thali.jpg}}\n\nThali är en trevlig indisk och lakto-ovo-vegetarisk restaurang som erbjuder spännande à la carte från både norra och södra Indien. Veganvänligheten är stor och naanbrödet är veganskt. Barn är i synnerhet välkomna att rita med färgpennor på dukarna.\n\n**Adress**: Värmlandsgatan 18B\n**Telefon**: 031-14 03 10\n**Hållplats**: Masthuggstorget.\n**Hemsida**: http://restaurangthali.se\n**Öppettider**: Måndag-onsdag 17-21, torsdag 17-21.30, fredag 16-22, lördag 13-22, söndag 13-21. Tiderna avses kökets öppettider.\n**Alkoholrättigheter**: Ja. \n---\ntags: restaurant,indian,vegetarian,vegan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.972769498825073,
+          57.70137268406081
+        ]
+      },
+      "properties": {
+        "name": "The Flying Scotsman",
+        "description": "{{http://www.vegangoteborg.se/rest-scotsman.jpg}}\n\nThe Flying Scotsman är en halvtrevlig pub med rutiga väggar och robusta möbler. Tidigare serverades både tzayspett och jambalaya på Scotsman men numera serveras en standardburgare med ketchup och senap.\n\n**Adress**: Storgatan 47\n**Telefon**: 031-13 76 46\n**Hållplats**: Valand.\n**Hemsida**: http://flyingscotsman.se\n**Öppettider**: Måndag-tisdag 16-sent, onsdag-torsdag 16-01, fredag-lördag 16-03.\n**Alkoholrättigheter**: Ja.\n---\ntags: pub,hamburger,vegetarian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.949163,
+          57.699126
+        ]
+      },
+      "properties": {
+        "name": "The Rover",
+        "description": "{{http://www.vegangoteborg.se/rest-roverburgare.jpg}}\n\nThe Rover är en av de gamla klassikerna på pubtäta Andra Lång. På menyn finns alltid en veganrätt, till exempel burritos eller chiligryta. Rödbetsburgaren presenteras som \"100 procent vegetarisk\" men man får byta bort coleslaw för att få den vegansk. Ungefär samma upplägg som på systerkrogen Ölrepubliken fast piffigare.\n\n**Adress**: Andra Långgatan 12\n**Telefon**: 031-775 04 90\n**Hållplats**: Järntorget.\n**Hemsida**: http://therover.se\n**Öppettider**: Måndag 16-00, tisdag-torsdag 16-01, fredag-lördag 15-01, söndag 15-00.\n**Alkoholrättigheter**: Ja.\n---\ntags: pub,hamburger,vegetarian"
       }
     },
     {
