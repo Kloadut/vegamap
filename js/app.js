@@ -237,7 +237,12 @@ function parseToHTML(title, text) {
     text = text.replace(/tags:(.*)/g, '');
     text = text.replace(/{{(.+)}}\n\n/g, "<img src='$1'><h1>"+ title +"</h1>");
     text = text.replace(/# (.+)\n/g, "<h1>$1</h1>");
-    address = text.match(/dress\*\*: (.+)\n/g)[0].replace(/dress\*\*: (.+)\n/g, "$1");
+    matchedAddress = text.match(/dress\*\*: (.+)\n/g)
+    if (matchedAddress !== null) {
+        address = matchedAddress[0].replace(/dress\*\*: (.+)\n/g, "$1");
+    } else {
+        address = 'nope'
+    }
     text = text.replace(/\*\*(.+)\*\*/g, "<strong>$1</strong>");
     text = text.replace(/: (http:\/\/.+)\n/g, ": <a href='$1' target=_blank>$1</a><br />");
     text = text.replace(/elefon<\/strong>: (.+)\n/g, "elefon</strong>: <a href='tel:$1'>$1</a><br />");
