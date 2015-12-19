@@ -6,6 +6,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.9679411,
+          57.7035221
+        ]
+      },
+      "properties": {
+        "name": "Alexandras",
+        "description": "{{http://www.vegangoteborg.se/rest-alexandras.jpg}}\n\nMitt inne i Saluhallen ligger det grekiska soppköket Alexandras. Den speciella saluhallsmiljön kan vara mysig men för veganer är köttdisken mittemot lagom stimulerande. Enkel servering med välsmakande linssoppa, en matig grönsaksgryta eller bönsoppa. Bröd ingår och fri påfyllning.\n\n**Adress**: Stora Saluhallen, Kungstorget\n**Telefon**: 031-711 78 78\n**Hållplats**: Kungsportsplatsen.\n**Hemsida**: –\n**Öppettider**: Måndag-torsdag 11-17.30, torsdag 11-18.30, fredag 11-17.30, lördag 11-15.30.\n**Alkoholrättigheter**: Nej.\n---\ntags: restaurant,mediterranean,vegetarian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.975440979003906,
           57.70084526616394
         ]
@@ -111,6 +125,20 @@
       "properties": {
         "name": "Canton House",
         "description": "{{http://www.vegangoteborg.se/rest-canton.jpg}}\n\nCanton House erbjuder vegetarisk kinamat med klass. I en mysig lokal med tunga draperier och tegelväggar, serveras fyra vegetariska rätter som kan ordnas veganska. Menyn erbjuder bland annat chilikryddad tofu med krispig panering. På östasiatiska restauranger kan det förekomma dold fisksås och räkpasta – ha för vana att fråga!\n\n**Adress**: Olivedalsgatan 12\n**Telefon**: 031-14 80 18\n**Hållplats**: Olivedalsgatan.\n**Hemsida**: http://cantonhouse.se\n**Öppettider**: Tisdag-fredag 17-23, lördag 15-23, söndag 15-22.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,east-asian,vegetarian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.930996,
+          57.6982646
+        ]
+      },
+      "properties": {
+        "name": "Chateau Beirut",
+        "description": "{{http://www.vegangoteborg.se/rest-beirut.jpg}}\n\nLibanesiska Chateau Beirut är en av de bästa mezerestaurangerna i stan. Här erbjuds – förutom en mysig miljö – en läcker mezemeny med falafel, potatisklyftor, valnötsfyllda auberginer, hummus, baba ganousch, paprikacréme, tabbouleh, vinbladsdolmar och en rad andra rätter som hör det libanesiska köket till.\n\n**Adress**: Karl Johansgatan 7\n**Telefon**: 031-24 40 50.\n**Hållplats**: Stigbergstorget.\n**Hemsida**: http://chateaubeirut.se\n**Öppettider**: Måndag-torsdag 16-22, fredag-lördag 16-00.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,mediterranean,falafel,vegetarian,vegan"
       }
     },
     {
@@ -433,6 +461,34 @@
       "properties": {
         "name": "Sattva",
         "description": "{{http://www.vegangoteborg.se/rest-sattva.jpg}}\n\nLakto-ovo-vegetariska Sattva är en indisk lunchrestaurang med hinduisk inriktning. Varje dag serveras dagens lunchrätter, till exempel kikärtsbiffar, thaiburgare, dumplings och olika soppor. Sattvas kusinrestaurang finns i Nimaihuset på Underåsgatan 24 i Gårda.\n\n**Adress**: Södra vägen 73.\n**Hållplats**: Korsvägen.\n**Hemsida**: http://sattvagbg.wordpress.com\n**Öppettider**: Måndag-fredag 11-15.30.\n**Alkoholrättigheter**: Nej.\n---\ntags: restaurant,vegetarian,hamburger,soup"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.949356496334076,
+          57.69951378844781
+        ]
+      },
+      "properties": {
+        "name": "Silvis",
+        "description": "{{http://www.vegangoteborg.se/rest-silvis.jpg}}\n\nSilvis är en mysig palestinsk restaurang med högklassig meze – smårätter som man delar med varann. Här serveras falafel, ugnspotatis, hummus, grillad aubergine, tabbouleh och en rad olika sallader och diper.\n\n**Adress**: Nordhemsgatan 18\n**Telefon**: 031-24 23 24\n**Hållplats**: Järntorget.\n**Hemsida**: http://silvis.nu\n**Öppettider**: Lunch: Måndag-fredag 11-14. Middag: Tisdag-lördag 16 och framåt (köket stänger 21).\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,mediterranean,falafel,vegetarian,vegan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.012534,
+          57.730199
+        ]
+      },
+      "properties": {
+        "name": "Solento",
+        "description": "{{http://www.vegangoteborg.se/rest-sorrento.jpg}}\n\nSorento är en persisk restaurang i Gamlestan som nyligen börjat med en hel veganmeny. Ett unikt koncept och en matkultur som inte är helt utbredd i Göteborgs restaurangvärld. Här finns linsgryta med tempeh, spenatgryta med tofu, kobide (kebab), \"kyckling\" med saffran med mera, samt saffransmilkshake och annat gott.\n\n**Adress**: Brahegatan 10\n**Telefon**: 031-21 91 52\n**Hållplats**: SKF.\n**Hemsida**: http://sorento.se\n**Öppettider**: Måndag-torsdag 11-00, fredag 11-01, lördag 12-01, söndag 12-23.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,mediterranean,vegetarian,vegan"
       }
     },
     {
