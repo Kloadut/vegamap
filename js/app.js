@@ -123,6 +123,16 @@ var cafeIcon = L.icon({
     popupAnchor:  [0, -36] // point from which the popup should open relative to the iconAnchor
 });
 
+var indianIcon = L.icon({
+    iconUrl: 'images/icons/india.png',
+
+    iconSize:     [50, 50], // size of the icon
+    shadowSize:   [50, 50], // size of the shadow
+    iconAnchor:   [24, 47], // point of the icon which will correspond to marker's location
+    shadowAnchor: [24, 47],  // the same for the shadow
+    popupAnchor:  [0, -36] // point from which the popup should open relative to the iconAnchor
+});
+
 var sushiIcon = L.icon({
     iconUrl: 'images/icons/sushi.png',
 
@@ -284,6 +294,8 @@ function pointToLayer(feature, latlng) {
             icon = favoriteIcon;
         } else if (featureTags.indexOf('sushi') !== -1) {
             icon = sushiIcon;
+        } else if (featureTags.indexOf('indian') !== -1) {
+            icon = indianIcon;
         } else if (featureTags.indexOf('east-asian') !== -1) {
             icon = noodleIcon;
         } else if (featureTags.indexOf('pizza') !== -1) {

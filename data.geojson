@@ -48,6 +48,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.951709,
+          57.699376
+        ]
+      },
+      "properties": {
+        "name": "Bombay",
+        "description": "{{http://www.vegangoteborg.se/rest-bombay.jpg}}\n\nBombay är ett litet och lunchbaserat indiskt hak, centralt beläget alldeles vid Järntorget. Det är öppet hela kvällen även om det inte riktigt håller måttet för en mysig utekväll. Det finns en hel del veganskt på menyn, bland annat klassiska grytor som Aaloo Ghobi och Channa Masala. Smör kan förekomma så be om utan.\n\n**Adress**: Andra Långgatan 2\n**Telefon**: 031-120039.\n**Hållplats**: Järntorget.\n**Hemsida**: http://restaurangbombay.se\n**Öppettider**: Måndag-fredag 11-23, lördag 13-23, söndag 13-22.\n**Alkoholrättigheter**: Ja. \n---\ntags: restaurant,indian,vegetarian,vegan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.930551528930664,
           57.69781819753603
         ]
@@ -272,6 +286,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.9602565,
+          57.702508
+        ]
+      },
+      "properties": {
+        "name": "Indiska Hörnet",
+        "description": "{{http://www.vegangoteborg.se/rest-hornet.jpg}}\n\nIndiska hörnet har åtta vegorätter på menyn men tyvärr är det bara Channa Masala som erbjuds veganer vid vårt besök. Rätten, som består av kikärter i en brun sås utan grönsaker, är ingen fantastisk smakupplevelse men den är helt klart ätbar och stämningen är gemytlig.\n\n**Adress**: Hvitfeldtsgatan 13\n**Telefon**: 031-711 66 69\n**Hållplats**: Grönsakstorget.\n**Hemsida**: http://indiskahornet.se\n**Öppettider**: Måndag-fredag 11-22, lördag 13-22, söndag 13-21.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,indian,vegetarian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.956670880317688,
           57.70018168328035
         ]
@@ -328,6 +356,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.9511203,
+          57.7000067
+        ]
+      },
+      "properties": {
+        "name": "Maharani",
+        "description": "{{http://www.vegangoteborg.se/rest-maharani.jpg}}\n\nMaharani är en av de snyggaste indiska restaurangerna i stan. Hit kan du absolut ta med dig din dejt. Fräsch lokal och lyxig känsla. Menyn erbjuder de klassiska vegetariska rätterna samt fyra smårätter, Subzi Thal. Säg till så komponerar kocken ihop en vegansk variant.\n\n**Adress**: Första Långgatan 4\n**Telefon**: 031-14 11 80\n**Hållplats**: Järntorget.\n**Hemsida**: http://maharani.se\n**Öppettider**: Lunch: Måndag-freddag 11.30-16. Middag: Måndag-söndag 17 och framåt.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,indian,vegetarian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.9669163,
           57.7082578
         ]
@@ -356,13 +398,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.9635177,
+          57.6978762
+        ]
+      },
+      "properties": {
+        "name": "New Dehli",
+        "description": "{{http://www.vegangoteborg.se/rest-dehli.jpg}}\n\nNew Dehli är en indisk restaurang med hyfsad mysfaktor och trevlig atmosfär. Det finns flera veganska rätter på menyn med linser och kikärter som smakar bra utan att överraska. Portionerna är något små och hit går man när man befinner sig i krokarna och är sugen på skön stämning utan att vara vrålhungrig.\n\n**Adress**: Vasagatan 4\n**Telefon**: 031-13 18 78\n**Hållplats**: Vasa/Viktoriagatan.\n**Hemsida**: http://newdelhigbg.se\n**Öppettider**: –\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,indian,vegetarian,vegan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.969175338745117,
           57.70345934913031
         ]
       },
       "properties": {
         "name": "S.P.I.C.E",
-        "description": "{{http://www.vegangoteborg.se/rest-spice.jpg}}\n\nSpice är en thairestaurang med lite högre klass och finns både på Kungstorget och Södra vägen. Snygg lokal och mat som är vackert serverad. På menyn finns de vanliga curryrätterna men de är tillagade med kärlek. På östasiatiska restauranger kan det förekomma dold fisksås och räkpasta – ha för vana att fråga!\n\n**Adress**: Kungstorget 14\n**Telefon**: 031-13 22 33\n**Hållplats**: Kungsportsplatsen\n**Hemsida**: spiceitrestaurang.com\n**Öppettider**: Måndag-torsdag 11.30-23, fredag 11.30-00, lördag 12-00, söndag 13-22.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,east-asian,thai,vegetarian"
+        "description": "{{http://www.vegangoteborg.se/rest-spice.jpg}}\n\nSpice är en thairestaurang med lite högre klass och finns både på Kungstorget och Södra vägen. Snygg lokal och mat som är vackert serverad. På menyn finns de vanliga curryrätterna men de är tillagade med kärlek. På östasiatiska restauranger kan det förekomma dold fisksås och räkpasta – ha för vana att fråga!\n\n**Adress**: Kungstorget 14\n**Telefon**: 031-13 22 33\n**Hållplats**: Kungsportsplatsen\n**Hemsida**: http://spiceitrestaurang.com\n**Öppettider**: Måndag-torsdag 11.30-23, fredag 11.30-00, lördag 12-00, söndag 13-22.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,east-asian,thai,vegetarian"
       }
     },
     {
@@ -524,6 +580,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.9471625,
+          57.6996079
+        ]
+      },
+      "properties": {
+        "name": "Taj Mahal",
+        "description": "Taj Mahal ligger sedan ett par år på Första Långgatan, i samma lokaler som tidigare rymt andra asiatiska krogar. Av någon mystisk anledningen går det inte att få till nån mysfaktor i den här lokalen. Maten är helt okej. Aaloo Ghobin är fyllig och smakrik, medan dhalen känns något spartansk.\n\n**Adress**: Första Långgatan 24\n**Telefon**: 031-24 60 20\n**Hållplats**: Masthuggstorget.\n**Hemsida**: http://tajmahalgbg.se\n**Öppettider**: Måndag-torsdag 11-21, fredag 11-22, lördag 13-22, söndag 13-21.\n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,indian,vegetarian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.965711265802383,
           57.70535530112146
         ]
@@ -558,7 +628,35 @@
       },
       "properties": {
         "name": "Thali",
+        "description": "{{http://www.vegangoteborg.se/rest-thali.jpg}}\n\nThali är en trevlig indisk och lakto-ovo-vegetarisk restaurang som erbjuder spännande à la carte från både norra och södra Indien. Veganvänligheten är stor och naanbrödet är veganskt. Barn är i synnerhet välkomna att rita med färgpennor på dukarna.\n\nAdress: Värmlandsgatan 18B\nTelefon: 031-14 03 10\nHållplats: Masthuggstorget.\nHemsida: http://restaurangthali.se\nÖppettider: Måndag-onsdag 17-21, torsdag 17-21.30, fredag 16-22, lördag 13-22, söndag 13-21. Tiderna avses kökets öppettider.\nAlkoholrättigheter: Ja. \n---\ntags: restaurant,indian,vegetarian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9466469,
+          57.6987808
+        ]
+      },
+      "properties": {
+        "name": "Thali",
         "description": "{{http://www.vegangoteborg.se/rest-thali.jpg}}\n\nThali är en trevlig indisk och lakto-ovo-vegetarisk restaurang som erbjuder spännande à la carte från både norra och södra Indien. Veganvänligheten är stor och naanbrödet är veganskt. Barn är i synnerhet välkomna att rita med färgpennor på dukarna.\n\n**Adress**: Värmlandsgatan 18B\n**Telefon**: 031-14 03 10\n**Hållplats**: Masthuggstorget.\n**Hemsida**: http://restaurangthali.se\n**Öppettider**: Måndag-onsdag 17-21, torsdag 17-21.30, fredag 16-22, lördag 13-22, söndag 13-21. Tiderna avses kökets öppettider.\n**Alkoholrättigheter**: Ja. \n---\ntags: restaurant,indian,vegetarian,vegan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9585593,
+          57.6953379
+        ]
+      },
+      "properties": {
+        "name": "Tre Indier",
+        "description": "{{http://www.vegangoteborg.se/rest-treindier.jpg}}\n\nTre Indier är en trevlig indisk krog, alldeles intill Skanstorget. Lokalen är mysig med sina små rum och vrår. Med den varma indiska inredningen finns det definitivt utrymme för lite romantik. På menyn finns flera veganska och välsmakande rätter. Be att få allt vegansk och beställ gärna pakoras till förrätt.\n\n**Adress**: Skanstorget 7\n**Telefon**: 031-13 32 18\n**Hållplats**: Hagakyrkan.\n**Hemsida**: http://treindier.eu\n**Öppettider**: Måndag-fredag 11.30-22, lördag 14-22, söndag 14-21. \n**Alkoholrättigheter**: Ja.\n---\ntags: restaurant,indian,vegetarian,vegan"
       }
     },
     {
