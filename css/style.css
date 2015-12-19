@@ -16,19 +16,16 @@ hr {
     left: 10px;
     border-radius: 10px;
     background: url('../images/icons/logo.png') no-repeat;
-    width: 80px;
-    height: 80px;
+    width: 70px;
+    height: 70px;
     border-radius: 10px;
-    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.5);
+    box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.6);
     background-size: contain;
 }
 
 #logo:hover {
     background-image: url('../images/icons/logo-help.png');
     cursor: pointer;
-}
-
-#logo img {
 }
 
 #tagbar {
@@ -151,17 +148,25 @@ a.go:active {
 }
 
 #layout .title {
-    padding-left: 80px;
+    padding-left: 70px;
 }
 
 #layout .title h1 {
     font-size: 2em;
     font-weight: bold;
+    margin-bottom: 0;
 }
 
 #layout .title small {
     color: #888;
     font-size: 1em;
+}
+
+@media (max-width: 400px) {
+    #layout .title {
+        padding-left: 0px;
+        margin-top: 110px;
+    }
 }
 
 #layout h3 {

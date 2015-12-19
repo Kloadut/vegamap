@@ -1,5 +1,5 @@
 // Initialize map's position to Gôteborg
-var map = L.map('map').setView([57.7072326, 11.9670171], 13);
+var map = L.map('map').setView([57.6997, 11.9540], 13);
 
 // Positron layer
 L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
